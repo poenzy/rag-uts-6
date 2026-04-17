@@ -1,5 +1,11 @@
 # cultivaguide
 
+## Clone repository
+
+```bash
+git clone https://github.com/poenzy/cultivaguide.git
+```
+
 ## Setup setelah clone
 
 ```bash
