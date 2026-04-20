@@ -1,2 +1,5 @@
 .env
 vector_db/
+venv/
+env/
+.venv/
