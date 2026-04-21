@@ -1,0 +1,704 @@
+PEDOMAN PENANGANAN PASCAPANEN SAYURAN
+
+DIREKTORAT PENGOLAHAN DAN PEMASARAN HASIL HORTIKULTURA
+DIREKTORAT JENDERAL HORTIKULTURA
+KEMENTERIAN PERTANIAN
+2019
+
+================================================================================
+
+KATA PENGANTAR
+
+Kehilangan hasil (loses) pascapanen komoditi sayuran masih relatif tinggi karena sifat produknya yang mudah rusak serta Indonesia beriklim tropis. Oleh karena itu perlu pemahaman pelaku usaha (mulai dari hulu sampai hilir) tentang faktor-faktor penyebab loses pascapanen sayuran dan usaha-usaha yang dapat ditempuh untuk menguranginya. Salah satu upaya yang dilakukan oleh Direktorat Jenderal Hortikultura melalui Direktorat Pengolahan dan Pemasaran Hasil Hortikultura pada Sub Direktorat Pascapanen Hortikultura adalah dengan menyusun Pedoman Penanganan Pascapanen Sayuran, yang berisikan prinsip penerapan penanganan pascapanen sayuran dengan tujuan menjaga kesegaran, meningkatkan umur simpan, mempertahankan mutu, serta memudahkan dalam distribusi dan transportasi komoditi sayuran.
+
+Buku Pedoman Penanganan Pascapanen Sayuran ini disusun untuk menjadi acuan bagi para petugas dan pelaku usaha dalam penanganan pascapanen sesuai dengan prinsip-prinsip penerapan Good Handling Practices (GHP). Buku Pedoman ini bersifat dinamis disesuaikan dengan perkembangan teknologi dan kebutuhan di lapangan.
+
+Melalui penerapan teknologi pascapanen sayuran oleh para pelaku usaha hortikultura mulai dari hulu sampai dengan hilir, diharapkan dapat memperbaiki penanganan pascapanen dan meningkatkan nilai tambah bagi pelaku usaha dan daya saing produk hortikultura khususnya sayuran.
+
+Jakarta, Maret 2019
+Direktur PPHH
+
+Ir. Yasid Taufik, MM
+NIP. 19620531 198903 1 001
+
+================================================================================
+
+DAFTAR ISI
+
+KATA PENGANTAR .................................................................................. i
+DAFTAR ISI ............................................................................................. iii
+DAFTAR TABEL ....................................................................................... iv
+DAFTAR GAMBAR .................................................................................... v
+DAFTAR LAMPIRAN ................................................................................. vi
+I.    PENDAHULUAN ................................................................................. 1
+      A. Latar Belakang ............................................................................... 1
+      B. Tujuan dan Sasaran ........................................................................ 1
+      C. Ruang Lingkup ............................................................................... 2
+II.   PANEN, PASCAPANEN, DAN PENGELOLAAN BANGSAL
+      PASCAPANEN HORTIKULTURA YANG BAIK ........................................ 3
+      A. Panen ............................................................................................ 3
+      B. Pascapanen .................................................................................... 4
+      C. Bangsal Pascapanen ........................................................................ 5
+      D. Kompetensi Sumber Daya Manusia (SDM) ........................................ 7
+III.  FAKTOR PENYEBAB LOSES PASCAPANEN SAYURAN .......................... 8
+      A. Faktor Primer .................................................................................. 8
+      B. Faktor Sekunder .............................................................................. 9
+IV.  PRINSIP UTAMA PENANGANAN PASCAPANEN SAYURAN ................... 10
+      A. Perencanaan dan Penentuan Saat Panen yang Tepat .......................... 10
+      B. Penanganan Komoditas Secara Hati-Hati .......................................... 10
+      C. Pengelolaan Suhu ........................................................................... 10
+      D. Pengendalian Kelembaban Nisbi (RH) ............................................... 11
+      E. Penentuan Saat Panen dan Indeks Panen .......................................... 11
+V.   PENANGANAN PASCAPANEN SAYURAN .............................................. 14
+      A. Penanganan Sayuran di Kebun ........................................................ 14
+      B. Penanganan di Bangsal Pascapanen ................................................. 14
+V.   PENUTUP .......................................................................................... 27
+DAFTAR PUSTAKA ................................................................................... 28
+
+================================================================================
+
+DAFTAR TABEL
+
+Tabel 1.  Kondisi yang Disarankan untuk Curing ........................................... 16
+Tabel 2.  Syarat Mutu Cabai Merah Segar
+           (SNI No. 01-4480-1998) ................................................................ 19
+Tabel 3.  Suhu Penyimpanan, Kelembaban, dan Umur
+           Simpan Beberapa Jenis Komoditas Sayuran ..................................... 25
+
+================================================================================
+
+DAFTAR GAMBAR
+
+Gambar 1.   Bangsal Pascapanen ................................................................. 6
+Gambar 2.   Contoh Denah Bangsal Pascapanen ............................................ 6
+Gambar 3.   Indeks panen sayuran buah ....................................................... 13
+Gambar 5.   Indeks panen sayuran umbi ....................................................... 13
+Gambar 4.   Indeks panen sayuran daun ....................................................... 13
+Gambar 6.   Indeks panen jamur .................................................................. 13
+Gambar 7.   Penirisan dengan mesin ............................................................. 18
+Gambar 8.   Pengemasan Plastik Sayuran ...................................................... 22
+Gambar 9.   Pengemasan Perforasi Sayuran ................................................... 23
+Gambar 10.  Pengemasan Vakum Sayuran ..................................................... 24
+
+================================================================================
+
+DAFTAR LAMPIRAN
+
+Lampiran 1.  Tabel Umur panen beberapa komoditas sayuran
+              dan tanaman biofarmaka ........................................................... 31
+Lampiran 2.  Tabel Indeks Ketuaan .............................................................. 32
+
+================================================================================
+
+I. PENDAHULUAN
+
+A. Latar Belakang
+
+Panen dan pascapanen dalam sistem agribisnis pada tahun 1979 dinyatakan oleh FAO sebagai masalah besar kedua (Second Generation Problem) karena terjadi loses yang besar (40-50%), baik secara kualitatif maupun kuantitatif dalam proses penyediaan pangan.
+
+Pedoman Good Handling Practices (GHP) diperlukan untuk mencegah atau menekan terjadinya loses dan menjaga mutu serta nutrisi produk yang dihasilkan sampai ke tangan konsumen. Teknologi pascapanen sayuran adalah penerapan semua kegiatan atau tindakan penanganan setelah panen sayuran untuk mencegah menurunnya mutu hasil panen sayuran. Berdasarkan Permentan No.73/OT/140/7/2013, kegiatan pascapanen hortikultura dapat dikelompokkan ke dalam 5 macam tahapan, yaitu:
+
+1. Pemanenan
+2. Penanganan setelah panen
+3. Pengangkutan
+4. Penyimpanan
+5. Distribusi
+
+B. Tujuan dan Sasaran
+
+Tujuan penulisan buku pedoman penanganan pascapanen sayuran adalah:
+
+1. Bagi petugas dalam melaksanakan pembinaan, bimbingan, penilaian, pengawasan, dan evaluasi penanganan panen, pascapanen, dan pengelolaan bangsal pascapanen sayuran yang baik; dan
+
+2. Bagi pelaku usaha sayuran dalam menerapkan prinsip-prinsip penanganan panen, pascapanen, dan pengelolaan bangsal pascapanen sayuran yang baik.
+
+Sasaran penulisan buku pedoman penanganan pascapanen sayuran adalah:
+
+1. Meningkatnya wawasan, pengetahuan, kompetensi petugas dan pelaku usaha dalam penanganan pascapanen buah;
+2. Meningkatnya perbaikan penanganan panen, pascapanen dan pengelolaan bangsal pascapanen sayuran yang baik oleh pelaku usaha;
+3. Meningkatnya nilai tambah dan daya saing produk sayuran.
+
+C. Ruang Lingkup
+
+Ruang lingkup pedoman ini meliputi: panen, pascapanen dan bangsal pascapanen.
+
+1. Panen
+
+Panen adalah rangkaian kegiatan pengambilan hasil budidaya berdasarkan umur, waktu, dan cara sesuai dengan sifat dan atau karakter produk.
+
+2. Pascapanen
+
+Pascapanen adalah rangkaian kegiatan yang dimulai dari pengumpulan hasil panen, proses penanganan pascapanen hingga produk siap diantarkan ke konsumen.
+
+3. Bangsal Pascapanen
+
+Bangsal pascapanen adalah bangunan yang memenuhi syarat sebagai tempat aktivitas penanganan pascapanen (tempat pengumpulan, pemilahan, pembersihan/pencucian, pelapisan, pengeringan, penganginan, pengkelasan, pengemasan dan pelabelan serta penyimpanan).
+
+================================================================================
+
+II. PANEN, PASCAPANEN, DAN PENGELOLAAN BANGSAL PASCAPANEN HORTIKULTURA YANG BAIK
+
+A. Panen
+
+Kegiatan panen merupakan pekerjaan akhir dari budidaya tanaman, tetapi awal dari pekerjaan pascapanen. Prinsipnya upaya memanfaatkan hasil budidaya dengan cara tertentu sesuai sifat dan/atau karakter tanaman. Hasil panen secepat mungkin dilaksanakan perlakuan pascapanen yang baik seperti dipindahkan ke tempat yang aman untuk meminimalisasi terjadinya susut/kerusakan. Di samping itu diupayakan agar produk sesedikit mungkin dipindahtangankan.
+
+Tujuan panen adalah untuk mengambil dan atau memisahkan bagian hasil atau tanaman secara utuh serta mengumpulkan dari lahan atau tanaman atau tanaman induk lain dengan cara panen yang baik.
+
+Pemungutan hasil dilakukan dengan cara :
+
+1. Pewadahan
+2. Bongkar muat dari kebun ke tempat pengumpulan sementara
+3. Pengangkutan dari tempat pengumpulan sementara ke bangsal pascapanen
+4. Perlakuan khusus sesuai dengan karakteristik produk.
+
+Hal-hal yang perlu diperhatikan dalam pelaksanaan panen:
+
+1. Prosedur operasional baku yang baik
+2. Indikator yang baik, misalnya pemanenan dilakukan dengan memperhatikan kenampakan visual (ukuran dan perubahan warna) serta fisiologis tanaman sesuai dengan kriteria permintaan pasar
+3. Titik kritis kegiatan.
+
+B. Pascapanen
+
+1. Prinsip dasar
+
+Merupakan rangkaian kegiatan setelah panen yang dilakukan dalam tahapan dan waktu sesingkat mungkin untuk menghantarkan produk hortikultura dari lahan produksi ke tangan konsumen dalam keadaan segar dan baik. Di samping itu diupayakan agar produk sesedikit mungkin kontak fisik atau dipindahtangankan.
+
+2. Tujuan
+
+Meningkatkan dan atau mempertahankan sifat-sifat mutu dari produk hortikultura mencakup karakteristik tampilan (bentuk, ukuran, warna dan bebas dari cacat-cela), tekstur, cita rasa, nilai nutrisi dan keamanan pangan.
+
+Disamping itu, penanganan pascapanen juga diharapkan dapat mengurangi loses serta meningkatkan nilai tambah dan daya saing produk hortikultura yang bersangkutan.
+
+3. Penanganan pascapanen sayuran dapat dikategorikan menjadi :
+
+a. Utama
+   1)  Bongkar Muat
+   2)  Penyejukan/pre-cooling
+   3)  Penyortiran
+   4)  Pembersihan
+   5)  Pengeringan
+   6)  Pengkelasan
+   7)  Pengemasan
+   8)  Pelabelan
+   9)  Penyimpanan
+   10) Pengangkutan/Distribusi
+   11) Pencatatan
+
+b. Tambahan
+   1) Penyembuhan luka/Curing
+   2) Perompesan /Trimming
+   3) Perbaikan Warna
+   4) Perlakuan khusus/Treatment
+
+C. Bangsal Pascapanen
+
+Kegiatan penanganan pascapanen dianjurkan untuk di bangsal pascapanen atau di tempat yang memenuhi persyaratan sanitasi. Pengelolaan bangsal pascapanen perlu memperhatikan hal-hal sebagai berikut:
+
+1. Pengelolaan dan Organisasi
+2. Tata Ruang/Layout
+3. Manajemen Operasional (terkait prosedur penggunaan alat dan mesin serta pencatatan)
+4. Kesehatan dan Keselamatan Kerja
+5. Sanitasi dan Higienis
+6. Pengelolaan Lingkungan
+7. Kemampuan Telusur Balik (Traceability)
+8. Registrasi Bangsal Pascapanen Sayuran
+
+[Gambar 1. Bangsal Pascapanen (Sumber : Agribusiness Techno Park, 2019)]
+[Gambar 2. Contoh Denah Bangsal Pascapanen (Sumber: Buku Petis Pengelolaan Bangsal Pascapanen Hortikultura, 2019)]
+
+D. Kompetensi Sumber Daya Manusia (SDM)
+
+1. Persyaratan Umum
+
+   a. Berbadan sehat yang dinyatakan dengan surat keterangan dokter yang berlaku paling lama 1 (satu) tahun.
+   b. Tidak mengidap penyakit menular yang dapat mencemari produk sayuran.
+   c. Mempunyai kesadaran/memahami tentang pentingnya menekan loses, menjaga mutu, menjamin keamanan pangan, memperhatikan kesejahteraan, kesehatan dan keselamatan kerja, serta pelestarian lingkungan.
+   d. Mempunyai pengetahuan dan keterampilan dalam melaksanakan kegiatan.
+   e. Memiliki dedikasi dan disiplin yang tinggi.
+   f. Tidak mempekerjakan anak di bawah umur.
+   g. Menjamin adanya keterlibatan tenaga kerja perempuan.
+
+2. Kualifikasi Khusus
+
+   a. Memiliki kualifikasi keahlian dan kemampuan yang dibuktikan dengan sertifikat kompetensi;
+   b. Mempunyai izin untuk melaksanakan kegiatan tertentu;
+   c. Mempunyai keahlian yang terbukti dari pengalaman menjalankan pekerjaan tertentu.
+
+================================================================================
+
+III. FAKTOR PENYEBAB LOSES PASCAPANEN SAYURAN
+
+Kehilangan hasil/loses pada masa pascapanen dapat sangat tinggi. Di negara-negara berkembang loses pascapanen sayuran dapat mencapai 50% dari hasil panen. Oleh karena itu, pemahaman tentang faktor-faktor penyebab kehilangan pascapanen sayuran dan usaha-usaha yang dapat ditempuh untuk menguranginya mempunyai arti yang besar secara ekonomis, baik untuk para petani, pedagang maupun konsumen.
+
+Loses pascapanen adalah jumlah panen yang hilang, dan karena itu tidak tersedia untuk konsumsi. Kehilangan pascapanen buah dapat disebabkan oleh faktor primer dan faktor sekunder.
+
+A. Faktor Primer
+
+Faktor primer penyebab loses antara lain:
+
+1. Faktor Biokimia
+
+Kerusakan akibat faktor biokimia yang ditimbulkan oleh reaksi enzim dalam bahan pangan yang dapat menimbulkan diskolorasi, citarasa yang menyimpang dan pelunakan jaringan.
+
+2. Faktor Fisiologis
+
+Sayuran yang sudah dipanen masih aktif melakukan respirasi, pelayuan (senesensi), pertunasan, dan perkecambahan (terminasi dormansi). Apabila tidak ditangani dengan tepat dapat menyebabkan kerusakan fisiologis akibat panas yang dihasilkan.
+
+3. Faktor Biologis
+
+   a. Dimakan hewan atau satwa lain
+   b. Terkontaminasi oleh kotoran, rambut atau bulu hewan, dsb
+   c. Terserang hama dan penyakit.
+
+4. Faktor Mikrobiologis
+
+   a. Kerusakan atau pembusukan pangan
+   b. Toksin atau racun yang diproduksi mikroorganisme antara lain aflatoksin (Aspergillus flavus)
+   c. Serangan/infeksi antraknosa
+
+5. Faktor Kimia
+
+Kontaminasi oleh bahan kimia yang beracun dan berbahaya antara lain minyak pelumas, logam berat dan pestisida kimia
+
+6. Faktor Mekanis
+
+Kerusakan akibat faktor mekanis dapat berupa memar, terpotong, dan pengelupasan yang berlebihan.
+
+7. Faktor Fisik
+
+   a. Perlakuan panas atau dingin yang kurang memadai
+   b. Penyimpanan dalam atmosfir yang komposisinya tidak cocok.
+
+B. Faktor Sekunder
+
+Faktor sekunder penyebab loses antara lain:
+
+1. Kompetensi SDM dalam kegiatan penanganan pascapanen belum optimal.
+2. Pengelolaan penyimpanan dan distribusi kurang baik.
+3. Keterbatasan sarana pengemasan dan transportasi.
+4. Fasilitas pre cooling kurang memadai
+
+================================================================================
+
+IV. PRINSIP UTAMA PENANGANAN PASCAPANEN SAYURAN
+
+A. Perencanaan dan Penentuan Saat Panen yang Tepat
+
+Untuk menghasilkan panen yang baik yaitu hasil panen yang sehat, tidak terlalu tua atau terlalu matang, tidak rusak, maka tindakan yang tepat harus dilakukan sejak awal bercocok tanam seperti penanaman benih yang baik, pemupukan yang cukup, pengendalian atau pemberantasan hama dan penyakit, pengairan dan juga drainase yang baik. Untuk dapat memasok pasar dengan komoditas berkualitas tinggi, penentuan saat panen harus dilakukan dengan tepat, pada umumnya beberapa waktu sebelum saat panen terbaik, kemudian diikuti penyimpanan komoditas dalam suhu yang mendekati ideal sekalipun hanya akan menghasilkan perpanjangan umur simpan terbatas. Mutu sayuran yang baik dapat diperoleh bila pemanenan dilakukan pada saat yang tepat sesuai dengan jenis sayuran dan kebutuhan/permintaan pasar.
+
+B. Penanganan Komoditas Secara Hati-Hati
+
+Hasil panen harus ditangani secara hati-hati karena kerusakan akibat penanganan yang kasar tidak langsung terlihat, akan tetapi berdampak pada penurunan kualitas dan umur simpan.
+
+C. Pengelolaan Suhu
+
+Pengelolaan suhu merupakan metode utama yang dipakai saat ini untuk memperpanjang umur simpan komoditas sayuran. Pengelolaan suhu yang tepat dimulai di kebun untuk menghilangkan panas lapangan, kemudian diikuti dengan pengelolaan suhu saat transportasi dari kebun ke bangsal pascapanen atau pasar.
+
+D. Pengendalian Kelembaban Nisbi (RH)
+
+Kelembaban nisbi udara dapat memengaruhi susut bobot, pembusukan, kerusakan fisiologis dan keseragaman pematangan sayuran. Kondensasi uap air pada permukaan komoditas (berkeringat, pengembunan) dalam jangka waktu yang cukup panjang lebih besar pengaruhnya terhadap meningkatnya pembusukan daripada RH udara dalam ruangan penyimpanan. RH yang tepat adalah 90% - 98% untuk sayuran, kecuali untuk labu kuning dan bawang bombai (70% - 75%), serta untuk beberapa jenis sayuran akar RH tepat adalah antara 85% - 95%.
+
+E. Penentuan Saat Panen dan Indeks Panen
+
+Penentuan saat panen yang tepat merupakan langkah awal dari upaya memperoleh kualitas hasil sayuran yang optimal. Saat panen sayuran dapat ditentukan tidak hanya dengan melihat keadaan fisik tanaman, namun juga dengan mempertimbangkan harga dan jarak dari kebun ke pasar tujuan.
+
+Setiap jenis sayuran memiliki kriteria siap panen yang spesifik, namun secara umum untuk menentukan sayuran siap panen dapat dilakukan dengan cara sebagai berikut :
+
+1. Kriteria Pemanenan Sayuran
+
+Penentuan saat panen yang tepat pada umumnya memerlukan kombinasi metode visual, fisik dan kimia untuk mendapatkan hasil yang memuaskan.
+
+a. Secara visual
+
+Penentuan dilakukan terhadap warna kulit, ukuran, terdapatnya daun kering, dan tingkat perkembangan sayuran.
+
+b. Secara fisik
+
+Penentuan dilakukan dengan mengamati kemudahan sayuran dipetik, tingkat kekerasan dan berat jenis sayuran.
+
+c. Analisis Kimiawi
+
+Penentuan menggunakan analisis kadar padatan terlarut atau kadar gula, kadar asam, dan perbandingan kadar gula dan asam.
+
+d. Perhitungan Kalender
+
+Penentuan panen dengan menghitung jumlah hari setelah munculnya bunga atau hari setelah tanam (HST).
+
+e. Metode fisiologi
+
+Penentuan panen dengan mengukur laju respirasi sayuran. Data respirasi secara akurat dapat menyatakan umur dan tingkat kematangan sayuran.
+
+2. Indeks Panen beberapa Komoditas Sayuran
+
+Beberapa indeks komoditas sayuran berdasarkan pengelompokan komoditas sayuran, secara lebih rinci tercantum pada lampiran.
+
+[Gambar 3. Indeks panen sayuran buah]
+[Gambar 4. Indeks panen sayuran daun]
+[Gambar 5. Indeks panen sayuran umbi]
+[Gambar 6. Indeks panen jamur]
+
+Jamur merang yang dipanen adalah jamur dalam stadium kancing.
+Jamur kuping: Siap dipanen bila ukurannya sudah optimal (mulai mengerut/keriting dan bagian tudung sudah mulai menipis.
+Jamur Tiram: siap dipanen setelah 30 hari sejak inokulasi/seminggu setelah baglog dibuka atau 2-3 hari setelah muncul primordia (pin head). Warna tudung putih terang, tidak keriting
+
+================================================================================
+
+V. PENANGANAN PASCAPANEN SAYURAN
+
+A. Penanganan Sayuran di Kebun
+
+Pada umumnya kegiatan penanganan pascapanen sayuran yang dilakukan di kebun, antara lain:
+
+1. Pengumpulan dalam wadah panen
+2. Pengangkutan ke tempat pengumpulan sementara
+3. Pengangkutan/transportasi ke bangsal pascapanen dengan menggunakan metode dan sarana yang tepat.
+
+Beberapa hal yang harus diperhatikan selama penanganan sayuran di kebun, diantaranya:
+
+1. Pengangkutan ke tempat pengumpulan harus dilakukan segera.
+2. Menata hasil panen ke dalam wadah pengumpul dilakukan dengan hati-hati dan tidak melewati batas maksimum.
+3. Tempat pengumpulan harus terlindung dari panas matahari dan hujan.
+4. Pengangkutan buah dari tempat pengumpulan sementara ke bangsal pascapanen atau pasar harus terlindungi dari panas matahari dan hujan serta memperhatikan sirkulasi udara.
+
+B. Penanganan di Bangsal Pascapanen
+
+Penanganan sayuran di bangsal pascapanen meliputi kegiatan sebagai berikut:
+
+1. Penerimaan produk, penimbangan, pencatatan, dan pembongkaran
+
+Bila terdapat beberapa pemasok, maka setiap produk perlu:
+
+   a. Diberi label identifikasi, berisi sumber/asal pasokan, tanggal pemasokan, bobot
+   b. Diperiksa jumlah pasokan
+   c. Diambil sampel untuk menilai mutu produk
+   d. Diberi tanda terima
+
+Semua kegiatan terhadap produk yang masuk harus dilakukan dengan prinsip "pertama masuk, pertama keluar" (FIFO = First In, First Out).
+
+2. Penyembuhan Luka/Curing
+
+Penyembuhan luka/curing adalah penanganan yang dilakukan segera setelah pemanenan pada sayuran umbi (kentang) dan bawang (bawang putih, bawang merah) sebagai persiapan untuk pemasaran dan penyimpanan jangka panjang.
+
+Curing komoditas umbi pada dasarnya dilakukan dengan prinsip-prinsip sebagai berikut:
+
+   a. Penyimpanan umbi dan umbi lapis pada suhu sedikit lebih tinggi dari suhu ruang untuk merangsang pembentukan kulit baru.
+   b. Kelembaban nisbi ruangan harus tinggi, tetapi tidak boleh ada embun pada permukaan komoditas. Bila RH terlalu rendah, pembentukan kulit baru dan penutupan luka terhambat.
+   c. Ventilasi harus cukup untuk merangsang pertumbuhan kulit baru. Ventilasi yang berlebihan akan menyebabkan penurunan suhu dan RH ruangan.
+   d. Suhu ruangan harus dipertahankan tetap konstan. Bila suhu turun maka akan terjadi pengembunan pada permukaan komoditas yang akan memicu terjadinya busuk basah. Pada tabel berikut disajikan kondisi yang disarankan untuk curing.
+
+Tabel 1. Kondisi yang Disarankan untuk Curing
+
+No. | Komoditas                          | Suhu (0C) | RH (%)  | Lama Curing (Hari)
+1.  | Kentang                            | 13 – 17   | >85     | 7 – 15
+    | Bawang putih, bawang merah         |           |         |
+    | - di dalam instore drying          | 50        | 70      | 4
+    | - dijemur matahari                 | 35        | -       | 7-9
+
+Curing bawang juga harus dilakukan segera setelah panen. Pada prinsipnya curing bawang adalah proses pengeringan daun, kulit luar dan akar; jadi bukan merupakan pembentukan epidermis seperti pada komoditas umbi.
+
+Curing bawang perlu dilakukan karena:
+
+   a. Bagian leher bawang peka terhadap pembusukan bila tidak dikeringkan dan daun dipotong saat pemanenan.
+   b. Pengeringan kulit luar umbi menghambat pembusukan dan kehilangan air.
+   c. Perakaran yang rusak selama pemanenan harus cepat dikeringkan karena dalam keadaan basah menjadi tempat dimulainya pembusukan.
+   d. Dalam cuaca baik, curing bawang dapat dilakukan dengan membiarkan panen bawang di kebun sampai daun, kulit luar, dan akar mengering. Bila cuaca hujan, sebaiknya curing dilakukan di tempat yang dinaungi dengan meletakkannya pada rak-rak atau baki-baki.
+   e. Pemotongan daun pada saat panen sebaiknya tidak dilakukan terkecuali bila akan memakai pengeringan buatan. Bawang yang sudah di-curing tahan sampai 2 bulan asal disimpan dalam wadah-wadah dengan ventilasi baik.
+
+3. Sortasi
+
+Sortasi bertujuan untuk memisahkan produk yang bagus dari produk yang cacat (rusak dan busuk) dan benda asing (tanah, batu, dll) sebelum proses penanganan lebih lanjut.
+
+Sayuran yang tidak lolos sortasi dan benda asing segera dikeluarkan dari bangsal pascapanen untuk mencegah akumulasi limbah yang berpotensi mencemari produk.
+
+4. Pembersihan atau pencucian
+
+Pembersihan bertujuan untuk menghilangkan kotoran yang melekat pada sayuran, misalnya tanah, residu pestisida. Pembersihan dapat dilakukan dengan metode kering atau metode basah disesuaikan dengan jenis produk. Contoh metode kering dengan menggunakan kuas dan blower pada jamur.
+
+Sedangkan contoh metode basah dilakukan dengan menggunakan air bersih atau ditambah dengan bahan pembersih yang diijinkan (chlorin dengan kadar 15 ppm) yang kemudian dibilas dengan air bersih misalnya untuk pencucian sayuran daun.
+
+5. Penirisan
+
+Penirisan yaitu menghilangkan atau mengeringkan air yang menempel pada sayuran pasca pencucian dengan air. Penirisan ini biasanya dilakukan dengan mengeringkan anginkan diatas rak-rak. Untuk mempercepat penirisan dapat dilakukan dengan menggunakan kipas angin atau dengan menggunakan alat spinner.
+
+[Gambar 7. Penirisan dengan mesin (Sumber : ATP, 2019)]
+
+6. Perompesan (Trimming)
+
+Perompesan yaitu kegiatan memisahkan atau membuang bagian produk yang tidak diinginkan seperti memotong tangkai, membuang daun, akar, dan bagian tertentu yang tidak diperlukan. Perompesan sebaiknya menggunakan cara dan alat yang tidak merusak produk dan menyediakan wadah/tempat untuk menampung sampah/sisa-sisa bagian tanaman yang dibuang.
+
+7. Pengkelasan (Grading)
+
+Pengkelasan atau pemilahan (grading) merupakan kegiatan pengelompokan produk hasil sortasi/pemilahan berdasarkan kriteria yang telah disepakati atau standar mutu yang digunakan untuk produk yang bersangkutan. Pemilahan produk dapat dilakukan secara manual dengan melibatkan banyak tenaga kerja atau secara mekanis menggunakan mesin pemilah (grader).
+
+Pada dasarnya pengkelasan sayuran mengacu pada Standar Nasional Indonesia (SNI), misalnya SNI No. 01-4480-1998 tentang Syarat Mutu Cabai Merah Segar seperti terlihat pada tabel di bawah ini.
+
+Tabel 2. Syarat Mutu Cabai Merah Segar (SNI No. 01-4480-1998)
+
+No | Jenis Uji                          | Satuan | Mutu I      | Mutu II     | Mutu III
+1. | Keseragaman Warna                  | %      | Merah > 95  | Merah > 95  | Merah > 95
+2. | Keseragaman Bentuk                 | %      | Seragam 98  | Seragam 96  | Seragam 95
+3. | Keseragaman Ukuran                 |        |             |             |
+   | a. Cabai Merah Besar               |        |             |             |
+   |    - Panjang Buah                  | Cm     | 12 – 14     | 9 - 11      | < 9
+   |    - Garis Tengah Pangkal          | Cm     | 1,5 – 1,7   | 1,3 – 1,5   | < 1,3
+   | b. Cabai Merah Keriting            |        |             |             |
+   |    - Panjang Buah                  | Cm     | 12 – 17     | 10 - 12     | < 10
+   |    - Garis Tengah Pangkal          | Cm     | 1,2 – 1,5   | 1,0 – 1,3   | < 1,0
+4. | Kadar Kotoran                      |        |             |             |
+5. | Tingkat Kerusakan dan Busuk        |        |             |             |
+   | a. Cabai Merah Besar               | %      | 0           | 1           | 2
+   | b. Cabai Merah Keriting            | %      | 0           | 1           | 2
+
+Pengkelasan produk sayuran juga dapat dilakukan berdasarkan kesepakatan antara penjual dan pembeli. Secara umum, terdapat 3 klasifikasi mutu yang digunakan untuk produk sayuran:
+
+   a. Kelas super → memiliki mutu sangat baik, bentuk, warna, dan aroma khas, tidak memiliki cacat yang mempengaruhi tekstur, rasa dan aroma. Untuk kelas super masih diizinkan adanya penyimpangan sebesar 5%.
+   b. Kelas 1 → mutu sama dengan kelas super, hanya diperkenankan toleransi penyimpangan sebesar 10%.
+   c. Kelas 2 → boleh memiliki sedikit kerusakan eksternal maupun internal, asalkan masih tetap dapat dimakan dalam keadaan segar.
+
+8. Pra–Pendinginan (Pre-cooling)
+
+Tujuan dari pre-cooling adalah untuk memperlambat respirasi, menurunkan kepekaan terhadap serangan mikroba, mengurangi jumlah air yang hilang (transpirasi) dan memudahkan pemindahan ke dalam ruang penyimpanan dingin atau sistem transportasi dingin.
+
+Beberapa metode yang biasa digunakan untuk pre-cooling untuk produk sayuran, diantaranya adalah:
+
+a. Hydro cooling (pendinginan dengan air)
+
+Hydro cooling merupakan salah teknik atau cara untuk mendinginkan produk setelah panen. Teknik pendinginan dapat menggunakan udara, air, evaporasi air dan es sebagai coolant. Hydro cooling menggunakan air dingin sebagai coolant. Karena air sebagai konduktor panas sangat baik, sistem ini mampu menurunkan suhu produk (35oC) menjadi mendekati suhu penyimpanan (seperti 5oC) secara cepat (15-45 menit).
+
+Kebanyakan Hydro cooling dilaksanakan dengan wadah curah sebelum dikemas lebih lanjut. Cara pendinginan ini cocok untuk berbagai jenis buah dan sayuran. Kebanyakan sayuran daun, sayuran umbi, dan sayuran buah dapat di hydro cooling dengan memenuhi syarat sebagai berikut:
+
+1. Toleran terhadap pembasahan (brokoli, tomat)
+2. Tidak rusak bila kena klorin dalam air (wortel)
+3. Tidak peka terhadap kerusakan fisik dari aksi benturan air bila disemprot, yang merupakan salah satu cara hydro cooling (kentang)
+
+b. Vacuum Cooling (pendinginan pada hampa udara)
+
+Pendinginan vakum adalah salah satu metoda yang umum digunakan untuk pra-pendinginan sayuran berdaun. Efek pendinginan terjadi akibat penguapan cepat sejumlah air dari bahan yang akan didinginkan pada ruang bertekanan rendah.
+
+Pendinginan vakum sangat popular pada pra-pendinginan sayuran berdaun karena dua keunggulannya yang utama, yaitu laju pendinginan cepat dan sebaran suhu seragam pada seluruh bahan. Metode pendinginan vakum merupakan metode pendinginan yang paling cepat. Tekanan udara di ruang pendinginnya berkisar 4.6 mmHg. Metode pendinginan vakum banyak diterapkan untuk mendinginkan sayuran daun seperti lettuce, kubis, wortel, paprika, dan bunga kol.
+
+9. Pengemasan Sayuran
+
+Pengemasan merupakan salah satu cara untuk melindungi dan memperpanjang umur simpan produk yang dikemas. Fungsi dari kemasan adalah sebagai wadah atau pembungkus yang dapat mengurangi/mencegah produk dari kerusakan serta melindungi dari bahaya pencemaran atau gangguan fisik (gesekan, benturan, getaran). Di samping itu, pengemasan juga berfungsi untuk memudahkan penyimpanan, pengangkutan dan distribusi.
+
+Dalam kaitannya dengan hal tersebut, bahan dan teknik pengemasan yang digunakan harus sesuai dengan sifat fisik kimia produk yang akan dikemas sehingga perlindungan dan umur simpan produk dapat dimaksimalkan. Dalam menentukan fungsi perlindungan pengemasan, maka perlu mempertimbangkan aspek-aspek mutu produk yang akan dilindungi.
+
+Klasifikasi kemasan berdasarkan struktur sistem kemasan (kontak produk dengan kemasan), yaitu:
+
+   a. Kemasan primer, yaitu kemasan yang langsung mewadahi atau membungkus bahan pangan (paprika, mentimun).
+   b. Kemasan sekunder, yaitu kemasan yang fungsi utamanya melindungi kelompok kemasan lainnya, seperti kotak karton, stereofoam (paprika).
+
+Jenis bahan kemasan terdiri dari:
+
+   a. Wadah utama (pengemas yang berhubungan langsung dengan bahan pangan) seperti kertas, plastik, logam, karton, gelas, kain, kulit, daun, dll.
+   b. Wadah luar (pelindung wadah utama selama distribusi, penjualan, atau penyimpanan) seperti kayu dan karton.
+
+[Gambar 8. Pengemasan Plastik Sayuran (Sumber : ATP, 2019)]
+
+Kemasan perforasi merupakan solusi untuk memodifikasi sirkulasi udara dalam kemasan sehingga permindahan oksigen, karbondioksida dan uap air dari produk ke lingkungan dapat dikendalikan, misalnya kemasan berlubang.
+
+[Gambar 9. Pengemasan Perforasi Sayuran (Sumber : ATP, 2019)]
+
+Kemasan vakum untuk produk sayur merupakan alternatif pilihan lain untuk memperpanjang masa simpan produk. Namun, biasanya praktek pengemasan vakum didahului dengan proses blansir, kemudian di vakum dan disimpan pada suhu beku.
+
+Teknik pengemasan vakum dapat mempertahankan rasa, warna, dan kesegaran sayuran. Kemasan vakum sayuran segar (tanpa pembekuan sebelumnya atau blanching) memungkinkan produk untuk terfermentasi karena sayuran masih hidup dan akan menghasilkan kualitas yang lebih rendah. Kemasan sayuran segar seperti, selada dan jamur.
+
+[Gambar 10. Pengemasan Vakum Sayuran (Sumber : Buku Pengemasan Produk Hortikultura Segar, 2018)]
+
+10. Pelabelan
+
+Pelabelan merupakan keterangan tertulis yang diberikan baik kepada produk sayuran maupun kemasan yang digunakan sebagai informasi tentang identitas produk sayuran yang bersangkutan, minimal berisi informasi, sebagai berikut:
+
+   a. Nama produk (varietas)
+   b. Asal produk (nama dan alamat produsen)
+   c. Tanggal pengemasan
+   d. Nomor Register (khusus untuk produk ekspor atau produk organik)
+
+Informasi produk yang tercantum pada label harus terlihat jelas dan tidak mudah hilang atau terhapus.
+
+11. Penyimpanan Sayuran
+
+Penyimpanan merupakan kegiatan untuk mengamankan produk sayuran sebelum diproses atau dikirim. Kondisi wadah, ruang, suhu, kelembaban, dan atmosfer penyimpanan disesuaikan dengan karakteristik produk dan tujuan penyimpanan.
+
+Tujuan penyimpanan antara lain:
+
+   a. Memperpanjang umur simpan
+   b. Mempertahankan mutu produk agar tetap segar
+   c. Dalam keadaan tertentu memperbaiki mutu produk
+   d. Meningkatkan keuntungan produsen
+
+Suhu penyimpanan dan kelembaban relatif (RH) yang direkomendasikan untuk mendinginkan beberapa komoditas sayuran dapat dilihat pada tabel berikut:
+
+Tabel 3. Suhu Penyimpanan, Kelembaban, dan Umur Simpan Beberapa Jenis Komoditas Sayuran
+
+No. | Jenis Komoditas | Suhu Penyimpanan (°C) | Kelembaban (%) | Umur Simpan
+1   | Bawang daun     | 0 - 2                 | 90 – 95        | 5 minggu
+2   | Bayam           | 0 - 2                 | 95 – 100       | 2-3 minggu
+3   | Asparagus       | 0 - 2                 | 95 – 100       | 2-3 minggu
+4   | Tauge           | 0 - 2                 | 95 – 100       | 7-9 hari
+5   | Brokoli         | 0 - 2                 | 95 – 100       | 3 minggu
+6   | Bakcoy          | 0 - 2                 | 95 – 100       | 3 minggu
+7   | Kubis           | 0 - 2                 | 95 – 100       | 5-6 bulan
+8   | Wortel          | 0 - 2                 | 95 – 100       | 7-9 bulan
+9   | Bunga Kol       | 0 - 2                 | 95 – 100       | 28 minggu
+10  | Seledri         | 0 - 2                 | 95 – 100       | 2-3 bulan
+11  | Sayuran Hijau   | 0 - 2                 | 95 – 100       | 2-3 minggu
+12  | Selada          | 0 - 2                 | 95 – 100       | 2-3 minggu
+13  | Jamur           | 0 - 2                 | 95 – 100       | 5-8 hari
+14  | Jagung Manis    | 0 - 2                 | 95 – 100       | 5-8 hari
+15  | Daun Bawang     | 0 - 2                 | 95 – 100       | 2-3 bulan
+16  | Bawang Putih    | 0 - 2                 | 60 – 75        | 6-7 bulan
+17  | Kacang Panjang  | 4 - 5                 | 90 – 95        | 7-10 hari
+18  | Buncis          | 10                    | 85 – 90        | 6-8 minggu
+19  | Timun           | 10                    | 85 – 90        | 6-8 minggu
+20  | Terong          | 10                    | 85 – 90        | 6-8 minggu
+21  | Okra            | 10                    | 85 – 90        | 6-8 minggu
+22  | Kentang         | 10                    | 85 – 90        | 6-8 minggu
+23  | Paprika         | 10                    | 85 – 90        | 6-8 minggu
+24  | Cabai           | 10                    | 85 – 90        | 2-3 minggu
+25  | Paria           | 13 - 15               | 85 – 90        | 2 minggu
+26  | Jahe            | 13 - 15               | 65             | 6 bulan
+27  | Kentang         | 13 - 15               | 85 – 90        | 2-4 minggu
+28  | Mentimun        | 13 - 15               | 85 – 90        | 10-14 hari
+29  | Terong          | 13 - 15               | 85 – 90        | 1 minggu
+30  | Tomat Matang    | 13 - 15               | 85 – 90        | 2-4 minggu
+31  | Tomat Hijau     | 18 - 20               | 85 – 90        |
+
+Sumber: BB Pascapanen, 2019
+
+12. Distribusi
+
+Distribusi merupakan upaya memindahkan produk yang sudah siap dipasarkan melalui kegiatan penyaluran, pembagian, dan pengiriman produk dari bangsal pascapanen ke pasar tujuan dengan tetap menjaga mutu produk. Hal-hal yang perlu diperhatikan dalam distribusi, antara lain :
+
+   a. Pencatatan jumlah produk dan waktu distribusi
+   b. Kebersihan sarana transportasi yang digunakan
+   c. Pemilihan alat transportasi yang tepat sesuai dengan jenis komoditas
+   d. Hindari sinar matahari panas berlebihan dan hujan
+   e. Penataan dan jumlah tumpukan sesuai dengan jenis kemasan.
+
+================================================================================
+
+V. PENUTUP
+
+Keberhasilan pengembangan teknologi pascapanen sayuran ke depan sangat tergantung kepada komitmen semua pemangku kepentingan yang terkait baik di tingkat pusat maupun daerah. Peran pelaku usaha juga sangat penting dalam mendukung pengembangan teknologi pascapanen sayuran ini. Karena itu kerjasama, keterpaduan dan sinergisme berbagai pihak (stakeholders) dalam pengembangan dan penerapan teknologi pascapanen sayuran sangat penting untuk mendapatkan hasil, manfaat dan dampak yang positif.
+
+Pemanfaatan teknologi pascapanen sayuran diharapkan akan dapat berkembang secara optimal, layak dan menguntungkan apabila dilakukan dengan prinsip bisnis yang sehat dan mandiri serta berkelanjutan sehingga menghasilkan mutu produk yang lebih baik, mampu memberikan nilai tambah dan daya saing, yang pada akhirnya dapat meningkatkan pendapatan dan kesejahteraan petani/kelompok tani/gapoktan serta pelaku usaha pascapanen sayuran.
+
+================================================================================
+
+DAFTAR PUSTAKA
+
+Anonim. 2011. Hydro Cooling. http://kuliah-qu.blogspot.com/2011/01/hydrocooling.html?m=1.
+
+Direktorat PPHH. 2018. Pedoman Teknis Pengelolaan Bangsal Pascapanen Hortikultura Cetakan ke-2. Jakarta
+
+Direktorat PPHH. 2018. Pengemasan Produk Hortikultura Segar Cetakan ke-2. Jakarta
+
+Anonim. 2019. Balai Besar Pascappanen, Balitbangtan. Jakarta
+
+Anonim. 2019. Agribusiness Techno Park (ATP). Bogor: IPB
+
+================================================================================
+
+LAMPIRAN
+
+Lampiran 1.
+Tabel Umur panen beberapa komoditas sayuran dan tanaman biofarmaka
+
+No | Jenis Sayuran dan Biofarmaka | Bentuk hasil     | Umur panen (hari)                          | Rata-rata produksi per ha (ton)
+1  | Asparagus                    | Rebung           | 270 - 300                                  | -
+2  | Bawang putih                 | Umbi             | 100 - 140                                  | 4 - 6
+3  | Bawang merah                 | Umbi             | 60 - 70                                    | 6 - 8
+4  | Bawang bombay                | Umbi             | 75 - 90                                    | 20
+5  | Brokoli                      | Bunga            | 75 - 90                                    | 5 - 10
+6  | Bayam                        | Daun             | 28 - 30                                    | 1.0 – 2.5
+7  | Bawang daun                  | Daun             | 75                                         | 10
+8  | Jagung manis                 | Tongkol buah     | 80 - 110                                   | 70 - 140
+9  | Kubis kepala                 | Daun             | 90 - 120                                   | 30 - 40
+10 | Kubis bunga                  | Bunga            | 80 - 95                                    | 5 - 15
+11 | Kentang                      | Umbi             | 95 - 105                                   | 15 - 20
+12 | Buncis                       | Buah polong      | 60                                         | 15
+13 | Kacang kapri                 | Buah polong      | 90                                         | 3
+14 | Kacang panjang               | Buah polong      | 58 - 80                                    | 3 - 6
+15 | Kangkung                     | Daun             | 35 – 45                                    | 10 - 16
+16 | Lobak                        | Umbi             | 60                                         | 15 - 20
+17 | Cabe merah                   | Buah             | 90 - 120                                   | 3 – 7
+18 | Cabe rawit                   | Buah             | 90 - 120                                   | 3 - 5
+19 | Timun                        | Buah             | 60 – 90                                    | 20
+20 | Paprika                      | Buah             | 80 - 95                                    | -
+21 | Petsai                       | Daun             | 65 – 70                                    | 15
+22 | Selada                       | Daun             | 60 - 90                                    | 15
+23 | Sawi                         | Daun             | 60                                         | 10
+24 | Seledri                      | Daun             | 60 – 90                                    | 5
+25 | Terong                       | Buah             | 120                                        | 10 - 30
+26 | Tomat                        | Buah             | 83 – 140                                   | 10 - 15
+27 | Wortel                       | Umbi             | 90                                         | 20 - 30
+28 | Jamur merang                 | tudung/tubuh buah| 10 – 20 HST                                | 300 – 500 kg/ panen
+29 | Jamur kuping                 | pinhead, tubuh buah | 3 -4 MSPM (4-5 kali panen)            | 3,6 ton/ 10ribu log
+30 | Jamur tiram                  | tudung, miselium, badan buah | 30 HSI, 1 minggu setelah baglog dibuka, 2-3 HSMP s/ 6 bln | 5,4ton/ 15rib log
+31 | Jahe                         | Rimpang          | 6 - 10 bln                                 | 10 - 25
+32 | Temulawak                    | Rimpang          | 9 - 12 bln                                 | 10 - 15
+33 | Kencur                       | Rimpang          | 8 – 9 bln                                  | 12 – 15
+34 | Kunyit                       | Rimpang          | 8 – 12 bln                                 | 15 – 20
+35 | Laos/ lengkuas               | Rimpang          | 9 – 12 bln                                 | 15 – 25
+36 | Lempuyang                    | Rimpang          | 9 – 12 bln                                 | 10 - 15
+37 | Temuireng                    | Rimpang          | 9 – 12 bln                                 | 10 - 15
+38 | Kejibeling                   | terna basah      | 3 – 12 bln                                 | 3 - 5
+39 | Dlingo                       | -                | 9 – 12 bln                                 | 15 – 20
+40 | Kapulaga                     | biji             | mulai 3 thn                                | 17-35 ton/th
+41 | Temukunci                    | Rimpang          | 9 – 12 bln                                 | 10 - 15
+42 | Mengkudu                     | buah             | 3 – 4 bln, berbuah sepanjang tahun         | 4 ton th I, 12 ton th II, 18 ton th III, 24 ton th IV
+43 | Sambiloto                    | daun             | 3 bln, selanjutnya tiap 2-3bln             | 5 – 7 ton setiap panen
+
+================================================================================
+
+Lampiran 2.
+Tabel Indeks Ketuaan
+
+No | Jenis Sayuran dan Biofarmaka | Indeks ketuaan
+1  | Asparagus      | Tunas masih dalam keadaan kuncup dengan panjang tunas minimum 25-27cm
+2  | Bawang putih   | Batang sudah kering, kuning dan layu, umbi cukup masak dan padat
+3  | Bawang merah   | Batang sudah kering, pangkal daun sudah lemas, umbi sudah tampak di permukaan tanah
+4  | Bawang bombay  | -
+5  | Brokoli        | Bunga/cluster masih kuncup, hijau, diameter buah 7.5-15cm
+6  | Bayam          | Dipanen sebelum berbunga, batang belum berserat, daun terlihat muda
+7  | Bawang daun    | Daun telah berwarna hijau tua, batang padat dan masif
+8  | Jagung manis   | -
+9  | Kubis kepala   | Krop sudah keras bila ditekan, krop terlihat padat dan masif
+10 | Kubis bunga    | -
+11 | Kentang        | Daun dan batang telah menguning, umbi tidak mudah lecet atau mengelupas.
+12 | Buncis         | Polong belum berserat, mudah dipatahkan
+13 | Kacang kapri   | -
+14 | Kacang panjang | Polong berwarna hijau tua, polong mudah dipatahkan
+15 | Kangkung       | Sebelum berbunga (kangkung mulai berbunga 35 hari), daun berwarna cerah
+16 | Lobak          | -
+17 | Cabe merah     | Buah terlihat adanya garis kemerahan dan mencapai ukuran maksimal
+18 | Cabe rawit     | Buah sudah padat dan mencapai usuran maksimal
+19 | Timun          | Kulit buah mengkilat dan mempunyai pupur
+20 | Paprika        | Kulit buah keras, warna hijau kemerahan
+21 | Petsai         | Warna daun hijau keputihan dengan tangkai daun putih putih dan bentuk krop 2 kali lebarnya
+22 | Selada         | Panen sebelum berbunga, daun hijau muda dan cerah
+23 | Sawi           | Panen sebelum berbunga, daun hijau muda
+24 | Seledri        | Panen setelah berdaun penuh, hijau tua
+25 | Terong         | Bijinya belum keras dan daging buahnya belum liat
+26 | Tomat          | Timbul warna kemerahan pada permukaan buah
+27 | Wortel         | Umbi sudah mencapai diameter 2 – 3 cm
+28 | Jamur merang   | tudung berwarna putih dengan ujung tubuh buah berwarna coklat
+29 | Jamur kuping   | Tubuh buah sudah maksimal, tepi buah tidak rata
+30 | Jamur tiram    | Panjang tudung jamur 5-7cm, tangkai 2-3cm
+31 | Jahe           | Warna daun menjadi kuning, batang mengering, kulit rimpang kencang dan tidak mudah terkelupas, apabila dipatahkan berserat dan aroma rimpang menyengat, warna rimpang lebih mengkilat dan terlihat bernas
+32 | Temulawak      | (sama seperti Jahe)
+33 | Kencur         | (sama seperti Jahe)
+34 | Kunyit         | (sama seperti Jahe)
+35 | Laos/ lengkuas | (sama seperti Jahe)
+36 | Lempuyang      | (sama seperti Jahe)
+37 | Temuireng      | (sama seperti Jahe)
+38 | Kejibeling     | -
+39 | Dlingo         | -
+40 | Kapulaga       | -
+41 | Temukunci      | Semua daun manguning dan gugur
+42 | Mengkudu       | -
+43 | Sambiloto      | -
+
+================================================================================
+-- AKHIR DOKUMEN --
