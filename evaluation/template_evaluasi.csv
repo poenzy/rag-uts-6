@@ -1,19 +1,19 @@
 No,Pertanyaan,Jawaban Sistem RAG,Jawaban Ideal / Referensi,Skor Relevansi (1-5),Catatan
-"1,""Apa yang dimaksud dengan bangsal pascapanen?"","""",""Bangsal pascapanen adalah bangunan yang memenuhi syarat sebagai tempat aktivitas penanganan pascapanen, seperti tempat pengumpulan, pemilahan, pembersihan, pelapisan, pengeringan, pengkelasan, pengemasan, pelabelan, dan penyimpanan."","""","""""
-"2,""Sebutkan 5 kegiatan utama dalam penanganan pascapanen sayuran!"","""",""Kegiatan utama meliputi bongkar muat, penyejukan (pre-cooling), penyortiran, pembersihan, pengeringan, pengkelasan, pengemasan, pelabelan, penyimpanan, pengangkutan/distribusi, dan pencatatan (bisa menyebutkan 5 di antaranya)."","""","""""
-"3,""Mengapa proses penyembuhan luka atau curing sangat penting untuk komoditas bawang?"","""",""Curing bawang penting karena mengeringkan daun, kulit luar, dan akar untuk menghambat pembusukan dan kehilangan air, terutama pada bagian leher dan akar yang rusak."","""","""""
-"4,""Apa yang dimaksud dengan pre-cooling pada sayuran dan apa tujuannya?"","""",""Pre-cooling adalah pendinginan awal untuk memperlambat respirasi, menurunkan kepekaan terhadap serangan mikroba, mengurangi transpirasi (kehilangan air), dan memudahkan penyimpanan."","""","""""
-"5,""Berapa suhu dan kelembaban yang direkomendasikan untuk menyimpan sayuran kentang?"","""",""Sayuran kentang direkomendasikan untuk disimpan pada suhu 10 derajat Celcius dengan kelembaban (RH) antara 85-90%."","""","""""
-"6,""Apa saja syarat mutu cabai merah segar untuk kategori Kelas Mutu I berdasarkan SNI?"","""",""Syarat mutu cabai merah segar Mutu I menurut SNI No. 01-4480-1998 adalah keseragaman warna merah >95%, keseragaman bentuk 98%, serta tingkat kerusakan dan busuk 0%."","""","""""
-"7,""Bagaimana cara mengidentifikasi kematangan atau indeks panen sayuran tomat?"","""",""Indeks panen atau kematangan sayuran tomat dapat ditandai dengan timbulnya warna kemerahan pada permukaan buah tomat."","""","""""
-"8,""Faktor primer apa saja yang menyebabkan kehilangan hasil (loses) pada sayuran pascapanen?"","""",""Faktor primer penyebab loses meliputi faktor biokimia, fisiologis, biologis, mikrobiologis, kimia, mekanis, dan fisik."","""","""""
-"9,""Apa fungsi utama dari pengemasan produk sayuran?"","""",""Fungsi pengemasan adalah sebagai wadah yang dapat mencegah kerusakan produk, melindungi dari pencemaran dan gangguan fisik, serta memudahkan penyimpanan dan distribusi."","""","""""
-"10,""Berapa lama umur panen yang tepat untuk tanaman wortel?"","""",""Umur panen tanaman wortel yang tepat adalah sekitar 90 hari."","""","""""
-,,,,Rata-rata:
-
-PANDUAN PENILAIAN SKOR:
-"Skor 5,""Jawaban sangat relevan, akurat, dan lengkap"""
-"Skor 4,""Jawaban relevan dan sebagian besar akurat"""
-"Skor 3,""Jawaban cukup relevan tapi ada bagian yang kurang atau tidak akurat"""
-"Skor 2,""Jawaban kurang relevan, banyak informasi yang salah"""
-"Skor 1,""Jawaban tidak relevan atau sistem tidak bisa menjawab sama sekali"""
+1,Apa yang dimaksud dengan bangsal pascapanen?,,"Bangsal pascapanen adalah bangunan yang memenuhi syarat sebagai tempat aktivitas penanganan pascapanen, seperti tempat pengumpulan, pemilahan, pembersihan, pelapisan, pengeringan, pengkelasan, pengemasan, pelabelan, dan penyimpanan.",,
+2,Sebutkan 5 kegiatan utama dalam penanganan pascapanen sayuran!,,"Kegiatan utama meliputi bongkar muat, penyejukan (pre-cooling), penyortiran, pembersihan, pengeringan, pengkelasan, pengemasan, pelabelan, penyimpanan, pengangkutan/distribusi, dan pencatatan (bisa menyebutkan 5 di antaranya).",,
+3,Mengapa proses penyembuhan luka atau curing sangat penting untuk komoditas bawang?,,"Curing bawang penting karena mengeringkan daun, kulit luar, dan akar untuk menghambat pembusukan dan kehilangan air, terutama pada bagian leher dan akar yang rusak.",,
+4,Apa yang dimaksud dengan pre-cooling pada sayuran dan apa tujuannya?,,"Pre-cooling adalah pendinginan awal untuk memperlambat respirasi, menurunkan kepekaan terhadap serangan mikroba, mengurangi transpirasi (kehilangan air), dan memudahkan penyimpanan.",,
+5,Berapa suhu dan kelembaban yang direkomendasikan untuk menyimpan sayuran kentang?,,Sayuran kentang direkomendasikan untuk disimpan pada suhu 10 derajat Celcius dengan kelembaban (RH) antara 85-90%.,,
+6,Apa saja syarat mutu cabai merah segar untuk kategori Kelas Mutu I berdasarkan SNI?,,"Syarat mutu cabai merah segar Mutu I menurut SNI No. 01-4480-1998 adalah keseragaman warna merah >95%, keseragaman bentuk 98%, serta tingkat kerusakan dan busuk 0%.",,
+7,Bagaimana cara mengidentifikasi kematangan atau indeks panen sayuran tomat?,,Indeks panen atau kematangan sayuran tomat dapat ditandai dengan timbulnya warna kemerahan pada permukaan buah tomat.,,
+8,Faktor primer apa saja yang menyebabkan kehilangan hasil (loses) pada sayuran pascapanen?,,"Faktor primer penyebab loses meliputi faktor biokimia, fisiologis, biologis, mikrobiologis, kimia, mekanis, dan fisik.",,
+9,Apa fungsi utama dari pengemasan produk sayuran?,,"Fungsi pengemasan adalah sebagai wadah yang dapat mencegah kerusakan produk, melindungi dari pencemaran dan gangguan fisik, serta memudahkan penyimpanan dan distribusi.",,
+10,Berapa lama umur panen yang tepat untuk tanaman wortel?,,Umur panen tanaman wortel yang tepat adalah sekitar 90 hari.,,
+,,,,Rata-rata:,
+,,,,,
+PANDUAN PENILAIAN SKOR:,,,,,
+Skor 5,"Jawaban sangat relevan, akurat, dan lengkap",,,,
+Skor 4,Jawaban relevan dan sebagian besar akurat,,,,
+Skor 3,Jawaban cukup relevan tapi ada bagian yang kurang atau tidak akurat,,,,
+Skor 2,"Jawaban kurang relevan, banyak informasi yang salah",,,,
+Skor 1,Jawaban tidak relevan atau sistem tidak bisa menjawab sama sekali,,,,
