@@ -13,6 +13,9 @@ vector_db/
 chroma_db/
 faiss_index/
 
+# Data backup
+data-backup/
+
 # Python cache
 __pycache__/
 *.py[cod]
