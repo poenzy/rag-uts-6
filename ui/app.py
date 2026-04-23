@@ -110,7 +110,7 @@ with st.sidebar:
     st.markdown("""
     **Kelompok:** Alvin, Fachrozi, Hanif 
     **Domain:** Pertanian
-    **LLM:** Gemini 1.5 Flash
+    **LLM:** Gemini 3 Flash Preview
     **Search:** Deep Retrieval Mode (top-k: 10)
     """)
     
