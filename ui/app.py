@@ -11,21 +11,40 @@ import sys
 import os
 from pathlib import Path
 
-# Mencari jalur folder utama (Project Root)
-# Karena file ini ada di 'ui/app.py', parents[1] adalah root proyek
+# 1. ATUR PATH SISTEM (WAJIB PALING ATAS)
 FILE = Path(__file__).resolve()
 ROOT = FILE.parents[1]
-
-# Masukkan folder root ke dalam urutan pertama sys.path
 if str(ROOT) not in sys.path:
     sys.path.insert(0, str(ROOT))
 
-# Sekarang baru panggil library lainnya
+# 2. IMPORT LIBRARY
 import streamlit as st
-from src.query import get_answer
+import faiss
+from src.indexing import build_vector_db
 from dotenv import load_dotenv
 
 load_dotenv()
+
+# 3. KONFIGURASI HALAMAN
+st.set_page_config(
+    page_title="CultivaGuide — Asisten Pertanian",
+    page_icon="🌱",
+    layout="wide"
+)
+
+# 4. LOGIKA AUTO-INDEXING (Ditaruh di sini agar st.warning bisa berfungsi)
+index_path = "vector_db/agri_index.faiss"
+
+if not os.path.exists(index_path):
+    # Gunakan st.status atau st.warning agar muncul di browser pengguna
+    with st.status("Database vektor tidak ditemukan. Menjalankan indexing otomatis...", expanded=True) as status:
+        try:
+            build_vector_db() 
+            status.update(label="Indexing selesai!", state="complete", expanded=False)
+            st.success("Database berhasil dibuat secara otomatis!")
+        except Exception as e:
+            st.error(f"Gagal melakukan indexing otomatis: {e}")
+            st.stop()
 
 # ─── Konfigurasi Halaman ──────────────────────────────────────────────────────
 st.set_page_config(
