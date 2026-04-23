@@ -53,21 +53,21 @@ st.set_page_config(
     layout="wide"
 )
 
-# ─── Kustomisasi CSS (Aura Tenang Biru Pastel) ───────────────────────────────
+# ─── Kustomisasi CSS ───────────────────────────────
 st.markdown("""
 <style>
-    /* Latar belakang utama (Hijau sangat pucat) */
+    /* Latar belakang utama */
     .stApp {
         background-color: #F4FDF4;
     }
     
-    /* Warna Sidebar (Hijau pastel kalem) */
+    /* Warna Sidebar */
     [data-testid="stSidebar"] {
         background-color: #E8F8E8 !important;
         border-right: 2px solid #D6F0D6;
     }
     
-    /* Warna teks (Hijau gelap keabu-abuan agar nyaman dibaca) */
+    /* Warna teks (Hijau gelap keabu-abuan) */
     h1, h2, h3, h4, p, span, div {
         color: #2E4030;
     }
@@ -86,7 +86,7 @@ st.markdown("""
         box-shadow: 0px 4px 6px rgba(0,0,0,0.1);
     }
     
-    /* Warna area chat pengguna */
+    /* Warna area chat */
     [data-testid="stChatMessage"] {
         background-color: #FFFFFF;
         border-radius: 12px;
@@ -96,7 +96,7 @@ st.markdown("""
         border: 1px solid #E6F9E8;
     }
     
-    /* Mempercantik kotak input chat di bawah */
+    /* Kotak input chat */
     .stChatInputContainer {
         border: 1px solid #8CD996 !important;
         border-radius: 12px !important;
@@ -117,8 +117,8 @@ with st.sidebar:
     
     top_k = st.slider(
         "Jumlah dokumen relevan (top-k)",
-        min_value=1, max_value=10, value=3,
-        help="Berapa banyak chunk yang diambil dari vector database"
+        min_value=1, max_value=20, value=10,
+        help="Berapa banyak chunk yang diambil dari vector database. Nilai lebih tinggi = pencarian lebih dalam."
     )
     
     show_context = st.checkbox("Tampilkan konteks yang digunakan", value=True)
@@ -129,9 +129,8 @@ with st.sidebar:
     st.markdown("""
     **Kelompok:** Alvin, Fachrozi, Hanif 
     **Domain:** Pertanian
-    **LLM:** Gemini (gemini-3-flash-preview)
-    **Vector DB:** FAISS  
-    **Embedding:** all-MiniLM-L6-v2
+    **LLM:** Gemini 3 Flash Preview
+    **Search:** Deep Retrieval Mode (top-k: 10)
     """)
     
     st.divider()
