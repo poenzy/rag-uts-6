@@ -4,7 +4,7 @@ import numpy as np
 import faiss
 from PyPDF2 import PdfReader
 from sentence_transformers import SentenceTransformer
-from config import CHUNK_SIZE, CHUNK_OVERLAP
+from src.config import CHUNK_SIZE, CHUNK_OVERLAP
 
 def read_documents(data_dir):
     """Membaca semua file PDF dan TXT di folder data/"""
