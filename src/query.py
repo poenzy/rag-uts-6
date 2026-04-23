@@ -35,9 +35,11 @@ def get_answer(user_query, top_k=3):
 
     retrieved_chunks = []
     context_text = ""
-    for idx in indices[0]:
+    for i, idx in enumerate(indices[0]):
         chunk = chunks[idx]
-        retrieved_chunks.append(chunk)
+        chunk_with_score = chunk.copy()
+        chunk_with_score['score'] = float(distances[0][i])
+        retrieved_chunks.append(chunk_with_score)
         context_text += f"\nSumber: {chunk['source']}\nIsi: {chunk['text']}\n"
 
     # 3. Prompt

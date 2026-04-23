@@ -153,7 +153,8 @@ for msg in st.session_state.messages:
         if msg["role"] == "assistant" and show_context and "contexts" in msg:
             with st.expander("Konteks yang digunakan"):
                 for i, ctx in enumerate(msg["contexts"], 1):
-                    st.markdown(f"**[{i}]** | `{ctx.get('source', 'Unknown')}`")
+                    score_text = f" Skor relevansi: {ctx['score']:.4f}" if "score" in ctx else ""
+                    st.markdown(f"**[{i}]{score_text}** | `{ctx.get('source', 'Unknown')}`")
                     st.text(ctx.get("text", "")[:300] + "...")
                     st.divider()
 
@@ -183,7 +184,8 @@ if question := st.chat_input("Ketik pesan untuk CultivaGuide di sini..."):
                 if show_context:
                     with st.expander("📚 Konteks yang digunakan"):
                         for i, ctx in enumerate(contexts, 1):
-                            st.markdown(f"**[{i}]** | `{ctx.get('source', 'Unknown')}`")
+                            score_text = f" Skor relevansi: {ctx['score']:.4f}" if "score" in ctx else ""
+                            st.markdown(f"**[{i}]{score_text}** | `{ctx.get('source', 'Unknown')}`")
                             st.text(ctx.get("text", "")[:300] + "...")
                             st.divider()
                 
