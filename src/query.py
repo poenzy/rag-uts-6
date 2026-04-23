@@ -5,6 +5,7 @@ import faiss
 from sentence_transformers import SentenceTransformer
 from google import genai
 from dotenv import load_dotenv
+from src.config import TOP_K, MODEL_NAME
 
 # Load API Key dari .env
 load_dotenv()
@@ -21,7 +22,7 @@ def load_db():
         chunks = json.load(f)
     return index, chunks
 
-def get_answer(user_query, top_k=3):
+def get_answer(user_query, top_k=TOP_K):
     try:
         index, chunks = load_db()
     except:
@@ -42,22 +43,24 @@ def get_answer(user_query, top_k=3):
         retrieved_chunks.append(chunk_with_score)
         context_text += f"\nSumber: {chunk['source']}\nIsi: {chunk['text']}\n"
 
-    # 3. Prompt
+    # 3. Prompt (Dioptimasi agar lebih cerdas)
     prompt = f"""Kamu adalah "CultivaGuide", Asisten Ahli Pertanian yang profesional.
-Tugasmu adalah menjawab pertanyaan pengguna HANYA berdasarkan konteks dokumen di bawah ini.
-Jika jawaban tidak ada di dalam dokumen, katakan: "Maaf, informasi tersebut tidak ada dalam dokumen panduan."
+Tugasmu adalah menjawab pertanyaan pengguna berdasarkan konteks dokumen yang diberikan di bawah ini. 
+
+Gunakan konteks tersebut sebagai referensi utama. Jika jawaban tidak ditemukan secara eksplisit tetapi bisa disimpulkan dari informasi yang ada, berikan jawaban yang logis. 
+Namun, jika benar-benar tidak ada kaitan sama sekali dengan dokumen, katakan: "Maaf, informasi tersebut tidak ada dalam dokumen panduan."
 
 Konteks Dokumen:
 {context_text}
 
 Pertanyaan Pengguna: {user_query}
 
-Berikan jawaban yang jelas, terstruktur, dan sebutkan nama file sumbernya di akhir jawaban.
+Berikan jawaban yang jelas, terstruktur (gunakan bullet points jika perlu), dan sebutkan nama file sumbernya di bagian akhir jawaban.
 """
 
-    # 4. CALL GEMINI (FIXED)
+    # 4. CALL GEMINI
     response = client.models.generate_content(
-        model="gemini-3-flash-preview",
+        model=MODEL_NAME,
         contents=prompt,
     )
 
