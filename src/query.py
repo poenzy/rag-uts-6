@@ -5,7 +5,7 @@ import faiss
 from sentence_transformers import SentenceTransformer
 from google import genai
 from dotenv import load_dotenv
-from config import TOP_K, MODEL_NAME
+from src.config import TOP_K, MODEL_NAME
 
 # Load API Key dari .env
 load_dotenv()
