@@ -9,5 +9,4 @@ CHUNK_OVERLAP = 400
 # Mengambil lebih banyak potongan dokumen agar LLM memiliki referensi yang kaya.
 TOP_K = 10
 
-# Konfigurasi LLM (Gunakan versi Flash yang cepat dan stabil)
-MODEL_NAME = "gemini-1.5-flash"
+MODEL_NAME = "gemini-3-flash-preview"
