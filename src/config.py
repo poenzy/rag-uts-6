@@ -1,11 +1,13 @@
 # src/config.py
 
-# Konfigurasi Chunking (Sesuai rubrik UTS)
-CHUNK_SIZE = 1000
-CHUNK_OVERLAP = 200
+# Konfigurasi Chunking (Optimasi untuk Pencarian Mendalam)
+# Ukuran potongan teks yang lebih besar menjaga alur konteks paragraf.
+CHUNK_SIZE = 1500 
+CHUNK_OVERLAP = 400 
 
 # Konfigurasi Pencarian (Retrieval)
-TOP_K = 3
+# Mengambil lebih banyak potongan dokumen agar LLM memiliki referensi yang kaya.
+TOP_K = 10
 
-# Konfigurasi LLM (Gunakan versi yang lebih stabil)
+# Konfigurasi LLM (Gunakan versi Flash yang cepat dan stabil)
 MODEL_NAME = "gemini-1.5-flash"

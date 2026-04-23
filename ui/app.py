@@ -98,8 +98,8 @@ with st.sidebar:
     
     top_k = st.slider(
         "Jumlah dokumen relevan (top-k)",
-        min_value=1, max_value=10, value=3,
-        help="Berapa banyak chunk yang diambil dari vector database"
+        min_value=1, max_value=20, value=10,
+        help="Berapa banyak chunk yang diambil dari vector database. Nilai lebih tinggi = pencarian lebih dalam."
     )
     
     show_context = st.checkbox("Tampilkan konteks yang digunakan", value=True)
@@ -110,9 +110,8 @@ with st.sidebar:
     st.markdown("""
     **Kelompok:** Alvin, Fachrozi, Hanif 
     **Domain:** Pertanian
-    **LLM:** Gemini (gemini-3-flash-preview)
-    **Vector DB:** FAISS  
-    **Embedding:** all-MiniLM-L6-v2
+    **LLM:** Gemini 1.5 Flash
+    **Search:** Deep Retrieval Mode (top-k: 10)
     """)
     
     st.divider()
