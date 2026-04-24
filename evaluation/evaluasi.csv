@@ -57,17 +57,7 @@ Kemudahan dipetik: Sayuran yang siap panen umumnya mudah untuk dipetik atau dipi
 Kondisi Bagian Tanaman (Spesifik Bawang):
 Bagian leher bawang: Dokumen menyebutkan bahwa bagian leher bawang sangat peka terhadap pembusukan, sehingga pengeringan pada bagian ini (serta daun, kulit luar, dan akar) menjadi indikator penting dalam kesiapan panen dan penanganan pascapanen (proses curing).
 Penentuan saat panen ini sangat penting karena memengaruhi kualitas hasil, susut bobot, dan meminimalisir pembusukan selama penyimpanan.","Batang sudah kering, pangkal daun sudah lemas, umbi sudah tampak di permukaan tanah.",2,Jawaban RAG terlalu umum dan gagal mengekstrak indikator spesifik bawang merah dari tabel lampiran indeks ketuaan.
-8,Faktor primer apa saja yang menyebabkan kehilangan hasil (loses) pada sayuran pascapanen?,"Berdasarkan dokumen panduan yang tersedia, faktor primer yang menyebabkan kehilangan hasil (loses) pada sayuran pascapanen adalah sebagai berikut:
-
-1. Faktor Biokimia: Disebabkan oleh reaksi enzim dalam bahan pangan yang dapat menimbulkan diskolorasi (perubahan warna), citarasa yang menyimpang, dan pelunakan jaringan.
-2. Faktor Fisiologis: Sayuran yang telah dipanen tetap melakukan aktivitas seperti respirasi, pelayuan (senesensi), pertunasan, dan perkecambahan (terminasi dormansi). Jika tidak ditangani dengan tepat, hal ini dapat menyebabkan kerusakan fisiologis akibat panas yang dihasilkan.
-3. Faktor Biologis:
-Dimakan oleh hewan atau satwa lain.
-Terkontaminasi oleh kotoran, rambut, atau bulu hewan.
-Terserang hama dan penyakit.
-4. Faktor Mikrobiologis:
-Kerusakan atau pembusukan pangan.
-Toksin atau racun yang diproduksi oleh mikroorganisme.","Faktor primer meliputi faktor biokimia, fisiologis, biologis, mikrobiologis, kimia, mekanis, dan fisik.",3,"Jawaban RAG tidak lengkap karena tidak menyebutkan faktor kimia, mekanis, dan fisik sesuai dokumen."
+8,Faktor primer apa saja yang menyebabkan kehilangan hasil (loses) pada sayuran pascapanen?,"Halo, saya CultivaGuide. Berdasarkan dokumen panduan yang tersedia, faktor-faktor primer yang menyebabkan kehilangan hasil (loses) pada sayuran pascapanen adalah sebagai berikut:Faktor Biokimia: Terjadi kerusakan akibat reaksi enzim dalam bahan pangan yang dapat menimbulkan perubahan warna (diskolorasi), penyimpangan citarasa, serta pelunakan jaringan.Faktor Fisiologis: Sayuran yang telah dipanen tetap aktif melakukan respirasi, pelayuan (senesensi), pertunasan, dan perkecambahan. Penanganan yang tidak tepat dapat menyebabkan kerusakan fisiologis akibat panas yang dihasilkan dari proses tersebut.Faktor Biologis: Kerusakan yang disebabkan karena dimakan oleh hewan atau satwa lain, terkontaminasi oleh kotoran/bulu hewan, serta adanya serangan hama dan penyakit.Faktor Mikrobiologis: Meliputi pembusukan pangan, adanya racun (toksin) yang diproduksi mikroorganisme seperti aflatoksin (Aspergillus flavus), serta infeksi antraknosa.Faktor Kimia: Adanya kontaminasi dari bahan kimia beracun dan berbahaya, seperti minyak pelumas, logam berat, dan pestisida kimia.Faktor Mekanis: Kerusakan fisik yang terjadi selama penanganan, seperti memar, terpotong, dan pengelupasan yang berlebihan.Faktor Fisik: Terjadi akibat perlakuan suhu (panas atau dingin) yang kurang memadai serta penyimpanan dalam kondisi atmosfer dengan komposisi yang tidak cocok","Faktor primer meliputi faktor biokimia, fisiologis, biologis, mikrobiologis, kimia, mekanis, dan fisik.",5,"Relevan, Akurat, Lengkap"
 9,Apa fungsi utama dari pengemasan produk sayuran?,"Berdasarkan dokumen panduan yang tersedia, fungsi utama dari pengemasan produk sayuran adalah sebagai berikut:
 
 1. Pelindung Produk: Sebagai wadah atau pembungkus yang berfungsi untuk mengurangi atau mencegah kerusakan produk, serta melindungi dari bahaya pencemaran atau gangguan fisik seperti gesekan, benturan, dan getaran.
@@ -80,7 +70,7 @@ Karakteristik Fisik: Memiliki bentuk, warna, dan aroma yang khas sesuai dengan j
 Kondisi Fisik: Tidak memiliki cacat sedikit pun yang dapat memengaruhi tekstur, rasa, maupun aroma produk tersebut.
 Toleransi Penyimpangan: Masih diizinkan adanya sedikit penyimpangan atau toleransi dari standar yang ditetapkan, namun maksimal hanya sebesar 5%
 ","Kelas super memiliki mutu sangat baik, bentuk/warna/aroma khas, tanpa cacat yang mempengaruhi tekstur/rasa/aroma, dengan toleransi penyimpangan maksimal 5%.",5,Jawaban akurat dan sesuai dengan definisi kelas super di referensi.
-,,,,Rata-rata:,4.2
+,,,,Rata-rata:,4.4
 ,,,,,
 PANDUAN PENILAIAN SKOR:,,,,,
 Skor 5,"Jawaban sangat relevan, akurat, dan lengkap",,,,
