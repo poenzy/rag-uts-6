@@ -126,10 +126,9 @@ Detail hasil evaluasi dari 10 pertanyaan pengujian dapat dilihat secara lengkap 
 
 
 
-```
 <img width="816" height="1600" alt="WhatsApp Image 2026-04-23 at 3 35 31 PM" src="https://github.com/user-attachments/assets/0e60f946-8d11-4e54-9079-b1165c5debd5" />
 
-```
+
 
 ---
 
