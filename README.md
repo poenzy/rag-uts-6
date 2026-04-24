@@ -108,27 +108,23 @@ Semua konfigurasi utama ada di `src/config.py` (atau langsung di setiap file):
 | `CHUNK_SIZE` | 500 | Ukuran setiap chunk teks (karakter) |
 | `CHUNK_OVERLAP` | 50 | Overlap antar chunk |
 | `TOP_K` | 3 | Jumlah dokumen relevan yang diambil |
-| `MODEL_NAME` | *(isi)* | Nama model LLM yang digunakan |
+| `MODEL_NAME` | `gemini-3-flash-preview` | Nama model LLM yang digunakan |
 
 ---
 
 ## 📊 Hasil Evaluasi
 
-*(Isi setelah pengujian selesai)*
+Detail hasil evaluasi dari 10 pertanyaan pengujian dapat dilihat secara lengkap pada file: [evaluation/evaluasi.csv](evaluation/evaluasi.csv)
 
-| # | Pertanyaan | Jawaban Sistem | Jawaban Ideal | Skor (1-5) |
-|---|-----------|----------------|---------------|-----------|
-| 1 | ... | ... | ... | ... |
-| 2 | ... | ... | ... | ... |
+**Rata-rata Skor:** 4.4  
 
-**Rata-rata Skor:** ...  
-**Analisis:** ...
+**Analisis:** Berdasarkan hasil evaluasi, sistem RAG menunjukkan performa yang sangat baik dengan rata-rata skor 4.4 dari 5. Sistem mampu memberikan jawaban yang akurat, relevan, dan terstruktur sesuai dengan referensi dokumen (8 pertanyaan mendapatkan skor maksimal 5). Meskipun demikian, sistem memiliki kelemahan saat menangani pertanyaan yang memerlukan informasi sangat spesifik dari lampiran atau tabel (seperti indeks ketuaan dan kemasan perforasi), sehingga mengindikasikan perlunya penyempurnaan teknik *chunking* agar ekstraksi dari bagian dokumen yang terstruktur menjadi lebih presisi.
 
 ---
 
 ## 🏗️ Arsitektur Sistem
 
-*(Masukkan gambar diagram arsitektur di sini)*
+
 
 ```
 [Dokumen] → [Loader] → [Splitter] → [Embedding] → [Vector DB]
@@ -143,7 +139,7 @@ Semua konfigurasi utama ada di `src/config.py` (atau langsung di setiap file):
 - Framework: *From Scratch*
 - LLM: *Gemini*
 - Vector DB: *FAISS*
-- Tutorial yang digunakan: *(cantumkan URL)*
+- Tutorial yang digunakan: Dokumentasi Streamlit, Langchain, dan FAISS
 
 ---
 
