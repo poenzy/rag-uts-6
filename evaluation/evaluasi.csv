@@ -1,20 +1,36 @@
 No,Pertanyaan,Jawaban Sistem RAG,Jawaban Ideal / Referensi,Skor Relevansi (1-5),Catatan
-1,Apa yang dimaksud dengan bangsal pascapanen?,"Bangsal pascapanen adalah bangunan yang memenuhi syarat sebagai tempat dilakukannya rangkaian aktivitas penanganan pascapanen. Aktivitas-aktivitas yang dilakukan di dalam bangsal ini meliputi: Pengumpulan, Pemilahan, Pembersihan/pencucian, Pelapisan, Pengeringan, Penganginan, Pengkelasan, Pengemasan dan pelabelan, Penyimpanan","Bangsal pascapanen adalah bangunan yang memenuhi syarat sebagai tempat aktivitas penanganan pascapanen, seperti tempat pengumpulan, pemilahan, pembersihan, pelapisan, pengeringan, pengkelasan, pengemasan, pelabelan, dan penyimpanan.",,
-2,Sebutkan 5 kegiatan utama dalam penanganan pascapanen sayuran!,"
-Berdasarkan dokumen yang tersedia, terdapat 5 macam tahapan atau kegiatan utama dalam pascapanen hortikultura (termasuk sayuran) menurut Permentan No.73/OT/140/7/2013, yaitu: Pemanenan, Penanganan setelah panen, Pengangkutan, Penyimpanan, Distribusi","Kegiatan utama meliputi bongkar muat, penyejukan (pre-cooling), penyortiran, pembersihan, pengeringan, pengkelasan, pengemasan, pelabelan, penyimpanan, pengangkutan/distribusi, dan pencatatan (bisa menyebutkan 5 di antaranya).",,
+1,Apa yang dimaksud dengan bangsal pascapanen?,"Bangsal pascapanen adalah bangunan yang memenuhi syarat tertentu sebagai tempat dilaksanakannya rangkaian aktivitas penanganan pascapanen sayuran. Tempat ini berfungsi sebagai pusat kegiatan untuk menjaga mutu produk sebelum diantarkan ke konsumen.
+
+Aktivitas yang dilakukan di dalam bangsal pascapanen meliputi:
+Pengumpulan hasil panen.
+Pemilahan (sorting).
+Pembersihan atau pencucian.
+Pelapisan (coating).
+Pengeringan dan penganginan.
+Pengkelasan (grading).
+Pengemasan dan pelabelan.
+Penyimpanan.
+Selain itu, pengelolaan bangsal pascapanen yang baik harus memperhatikan beberapa aspek penting seperti tata ruang (layout), sanitasi dan higienis, kesehatan dan keselamatan kerja (K3), manajemen operasional, serta kemampuan telusur balik (traceability).","Bangsal pascapanen adalah bangunan yang memenuhi syarat sebagai tempat aktivitas penanganan pascapanen (tempat pengumpulan, pemilahan, pembersihan/pencucian, pelapisan, pengeringan, penganginan, pengkelasan, pengemasan dan pelabelan serta penyimpanan).",5,"Jawaban RAG sangat relevan, akurat, dan mencakup semua fungsi bangsal sesuai referensi."
+2,Sebutkan 5 kegiatan utama dalam penanganan pascapanen sayuran!,"kegiatan pascapanen hortikultura (termasuk sayuran) sesuai dengan Permentan No.73/OT/140/7/2013 dikelompokkan ke dalam 5 tahapan utama, yaitu:
+Pemanenan
+Penanganan setelah panen
+Pengangkutan
+Penyimpanan
+Distribusi
+Berdasarkan dokumen yang tersedia, terdapat 5 macam tahapan atau kegiatan utama dalam pascapanen hortikultura (termasuk sayuran) menurut Permentan No.73/OT/140/7/2013, yaitu: Pemanenan, Penanganan setelah panen, Pengangkutan, Penyimpanan, Distribusi","Berdasarkan dokumen, ada 5 tahapan pascapanen menurut Permentan (Pemanenan, Penanganan setelah panen, Pengangkutan, Penyimpanan, Distribusi). Selain itu ada kegiatan utama pascapanen teknis: bongkar muat, pre-cooling, penyortiran, pembersihan, pengeringan, dll.",5,Jawaban RAG merujuk pada 5 tahapan berdasarkan Permentan No.73/2013 yang secara eksplisit ada di dokumen. Jawaban ideal direvisi untuk mencakup hal ini.
 3,Mengapa proses penyembuhan luka atau curing sangat penting untuk komoditas bawang?,"Halo, saya CultivaGuide. Berdasarkan dokumen panduan yang tersedia, proses penyembuhan luka atau curing sangat penting bagi komoditas bawang karena alasan-alasan berikut:
 1. Mencegah Pembusukan pada Leher Bawang: Bagian leher bawang sangat peka terhadap pembusukan jika tidak dikeringkan, terutama apabila daun dipotong saat pemanenan.
 2. Menghambat Pembusukan dan Kehilangan Air: Pengeringan pada kulit luar umbi berfungsi untuk menghambat proses pembusukan dan mencegah kehilangan air pada komoditas.
 3. Menangani Kerusakan Akar: Perakaran yang rusak selama proses pemanenan harus segera dikeringkan karena kondisi akar yang basah dapat menjadi tempat dimulainya pembusukan.
-4. Persiapan Penyimpanan Jangka Panjang: Curing dilakukan sebagai persiapan untuk pemasaran dan penyimpanan jangka panjang. Bawang yang sudah melalui proses curing dapat bertahan hingga 2 bulan asalkan disimpan dalam wadah dengan ventilasi yang baik.","Curing bawang penting karena mengeringkan daun, kulit luar, dan akar untuk menghambat pembusukan dan kehilangan air, terutama pada bagian leher dan akar yang rusak.",,
+4. Persiapan Penyimpanan Jangka Panjang: Curing dilakukan sebagai persiapan untuk pemasaran dan penyimpanan jangka panjang. Bawang yang sudah melalui proses curing dapat bertahan hingga 2 bulan asalkan disimpan dalam wadah dengan ventilasi yang baik.","Curing bawang penting karena bagian leher peka pembusukan, mengeringkan kulit luar menghambat pembusukan dan kehilangan air, serta akar yang rusak harus dikeringkan agar tidak membusuk.",5,Jawaban RAG menangkap poin-poin alasan curing dengan sangat baik dan terstruktur.
 4,Apa yang dimaksud dengan pre-cooling pada sayuran dan apa tujuannya?,"Berdasarkan dokumen yang diberikan, berikut adalah penjelasan mengenai pra-pendinginan (pre-cooling) pada sayuran:
-Pengertian Pra-Pendinginan (Pre-cooling) Pra-pendinginan adalah salah satu teknik atau cara untuk mendinginkan produk sayuran segera setelah panen. Proses ini bertujuan untuk menurunkan suhu produk secara cepat (misalnya dari 35�C menjadi mendekati suhu penyimpanan seperti 5C) sebelum produk dipindahkan ke ruang penyimpanan atau sistem transportasi dingin.
+Pengertian Pra-Pendinginan (Pre-cooling) Pra-pendinginan adalah salah satu teknik atau cara untuk mendinginkan produk sayuran segera setelah panen. Proses ini bertujuan untuk menurunkan suhu produk secara cepat (misalnya dari 35C menjadi mendekati suhu penyimpanan seperti 5C) sebelum produk dipindahkan ke ruang penyimpanan atau sistem transportasi dingin.
 Tujuan Pra-Pendinginan (Pre-cooling) Tujuan utama dari tindakan pra-pendinginan adalah:
 1. Memperlambat laju respirasi pada sayuran.
 2. Menurunkan kepekaan sayuran terhadap serangan mikroba.
 3. Mengurangi jumlah air yang hilang atau proses transpirasi.
 4. Memudahkan proses pemindahan komoditas ke dalam ruang penyimpanan dingin atau sistem transportasi dingin.
-Beberapa metode yang umum digunakan untuk pra-pendinginan ini antara lain adalah hydro cooling (menggunakan air dingin sebagai media pendingin) dan vacuum cooling (pendinginan pada hampa udara).","Pre-cooling adalah pendinginan awal untuk memperlambat respirasi, menurunkan kepekaan terhadap serangan mikroba, mengurangi transpirasi (kehilangan air), dan memudahkan penyimpanan.",,
+Beberapa metode yang umum digunakan untuk pra-pendinginan ini antara lain adalah hydro cooling (menggunakan air dingin sebagai media pendingin) dan vacuum cooling (pendinginan pada hampa udara).","Pre-cooling adalah pendinginan awal untuk memperlambat respirasi, menurunkan kepekaan terhadap mikroba, mengurangi transpirasi (kehilangan air), dan memudahkan pemindahan ke penyimpanan/transportasi dingin.",5,Sangat relevan dan sesuai dengan referensi ideal.
 5,Apa yang dimaksud dengan hydro cooling pada sayuran pascapanen?,"Berdasarkan dokumen panduan yang tersedia, berikut adalah penjelasan mengenai hydro cooling pada sayuran pascapanen:
 
 Hydro cooling adalah salah satu teknik atau cara untuk mendinginkan produk setelah panen dengan menggunakan air dingin sebagai media pendingin (coolant).
@@ -26,9 +42,21 @@ Proses: Kebanyakan dilakukan dengan wadah curah sebelum produk dikemas lebih lan
 Syarat Produk: Sayuran yang dapat diproses dengan teknik ini harus memenuhi kriteria berikut:
 	1. Toleran terhadap pembasahan (contoh: brokoli, tomat).
 	2. Tidak rusak jika terkena klorin dalam air (contoh: wortel).
-	3. Tidak peka terhadap kerusakan fisik akibat benturan air jika menggunakan metode penyemprotan (contoh: kentang).",Hydro cooling adalah teknik mendinginkan produk secara cepat menggunakan air dingin untuk menurunkan suhu produk menjadi mendekati suhu penyimpanan.,,
-6,Mengapa kemasan perforasi digunakan pada pengemasan sayuran?,,"Kemasan perforasi digunakan untuk memodifikasi sirkulasi udara sehingga perpindahan oksigen, karbondioksida, dan uap air dapat dikendalikan.",,
-7,Bagaimana ciri-ciri atau indeks ketuaan bawang merah yang siap panen?,,"Indeks ketuaan bawang merah ditandai dengan batang sudah kering, pangkal daun lemas, dan umbi tampak di permukaan tanah.",,
+	3. Tidak peka terhadap kerusakan fisik akibat benturan air jika menggunakan metode penyemprotan (contoh: kentang).",Hydro cooling adalah teknik pendinginan produk secara cepat menggunakan air dingin sebagai coolant untuk menurunkan suhu produk mendekati suhu penyimpanan.,5,Penjelasan hydro cooling sangat akurat dan informatif.
+6,Mengapa kemasan perforasi digunakan pada pengemasan sayuran?,"Berdasarkan konteks dokumen yang Anda berikan, informasi mengenai ""kemasan perforasi"" tidak disebutkan secara eksplisit. Namun, berdasarkan penjelasan mengenai faktor penyebab kerusakan sayuran pada dokumen tersebut, penggunaan kemasan yang memungkinkan sirkulasi udara (seperti perforasi) secara logis bertujuan untuk:
+Mencegah Pembusukan akibat Kondensasi: Dokumen menyatakan bahwa kondensasi uap air pada permukaan komoditas (berkeringat atau pengembunan) dalam jangka waktu lama memiliki pengaruh yang sangat besar terhadap meningkatnya pembusukan. Kemasan perforasi berfungsi untuk mengurangi pengembunan tersebut.
+Pengendalian Kelembaban Nisbi (RH): Sayuran membutuhkan kelembaban nisbi (RH) yang tepat, yaitu antara 90% - 98%. Pengaturan udara melalui lubang kemasan membantu menjaga keseimbangan kelembaban agar tidak terjadi penumpukan uap air berlebih yang memicu kerusakan fisiologis.
+Menjaga Umur Simpan: Penanganan suhu dan kelembaban yang tepat sangat penting untuk memperpanjang umur simpan komoditas dan mencegah penurunan kualitas akibat penanganan yang kurang baik.","Kemasan perforasi digunakan untuk memodifikasi sirkulasi udara dalam kemasan sehingga perpindahan oksigen, karbondioksida, dan uap air dari produk ke lingkungan dapat dikendalikan.",2,RAG gagal menemukan informasi eksplisit mengenai kemasan perforasi di dokumen (padahal ada) dan menjawab murni lewat inferensi konteks umum.
+7,Bagaimana ciri-ciri atau indeks ketuaan bawang merah yang siap panen?,"berikut adalah ciri-ciri atau kriteria indeks panen untuk bawang yang dapat disimpulkan:
+Secara Visual:
+Daun yang mengering: Salah satu tanda utama sayuran (termasuk bawang) siap panen adalah keberadaan daun yang sudah kering.
+Warna kulit dan ukuran: Terjadi perubahan warna kulit dan ukuran umbi yang telah mencapai tingkat perkembangan optimal sesuai dengan kriteria pasar.
+Secara Fisik:
+Tingkat kekerasan: Umbi memiliki tingkat kekerasan tertentu yang menunjukkan kematangan.
+Kemudahan dipetik: Sayuran yang siap panen umumnya mudah untuk dipetik atau dipisahkan dari tanaman induk/tanahnya.
+Kondisi Bagian Tanaman (Spesifik Bawang):
+Bagian leher bawang: Dokumen menyebutkan bahwa bagian leher bawang sangat peka terhadap pembusukan, sehingga pengeringan pada bagian ini (serta daun, kulit luar, dan akar) menjadi indikator penting dalam kesiapan panen dan penanganan pascapanen (proses curing).
+Penentuan saat panen ini sangat penting karena memengaruhi kualitas hasil, susut bobot, dan meminimalisir pembusukan selama penyimpanan.","Batang sudah kering, pangkal daun sudah lemas, umbi sudah tampak di permukaan tanah.",2,Jawaban RAG terlalu umum dan gagal mengekstrak indikator spesifik bawang merah dari tabel lampiran indeks ketuaan.
 8,Faktor primer apa saja yang menyebabkan kehilangan hasil (loses) pada sayuran pascapanen?,"Berdasarkan dokumen panduan yang tersedia, faktor primer yang menyebabkan kehilangan hasil (loses) pada sayuran pascapanen adalah sebagai berikut:
 
 1. Faktor Biokimia: Disebabkan oleh reaksi enzim dalam bahan pangan yang dapat menimbulkan diskolorasi (perubahan warna), citarasa yang menyimpang, dan pelunakan jaringan.
@@ -39,18 +67,24 @@ Terkontaminasi oleh kotoran, rambut, atau bulu hewan.
 Terserang hama dan penyakit.
 4. Faktor Mikrobiologis:
 Kerusakan atau pembusukan pangan.
-Toksin atau racun yang diproduksi oleh mikroorganisme.","Faktor primer penyebab loses meliputi faktor biokimia, fisiologis, biologis, mikrobiologis, kimia, mekanis, dan fisik.",,
+Toksin atau racun yang diproduksi oleh mikroorganisme.","Faktor primer meliputi faktor biokimia, fisiologis, biologis, mikrobiologis, kimia, mekanis, dan fisik.",3,"Jawaban RAG tidak lengkap karena tidak menyebutkan faktor kimia, mekanis, dan fisik sesuai dokumen."
 9,Apa fungsi utama dari pengemasan produk sayuran?,"Berdasarkan dokumen panduan yang tersedia, fungsi utama dari pengemasan produk sayuran adalah sebagai berikut:
 
 1. Pelindung Produk: Sebagai wadah atau pembungkus yang berfungsi untuk mengurangi atau mencegah kerusakan produk, serta melindungi dari bahaya pencemaran atau gangguan fisik seperti gesekan, benturan, dan getaran.
 2. Memudahkan Logistik: Berfungsi untuk memudahkan proses penyimpanan, pengangkutan, dan distribusi produk.
-3. Memaksimalkan Umur Simpan: Melindungi mutu produk agar perlindungan dan umur simpannya dapat dimaksimalkan sesuai dengan sifat fisik dan kimia produk yang dikemas.","Fungsi pengemasan adalah sebagai wadah yang dapat mencegah kerusakan produk, melindungi dari pencemaran dan gangguan fisik, serta memudahkan penyimpanan dan distribusi.",,
-10,Apa yang dimaksud dengan pengkelasan kelas super pada produk sayuran?,,"Kelas super memiliki mutu sangat baik tanpa cacat, dengan toleransi penyimpangan maksimal sebesar 5%.",,
-,,,,Rata-rata:,
+3. Memaksimalkan Umur Simpan: Melindungi mutu produk agar perlindungan dan umur simpannya dapat dimaksimalkan sesuai dengan sifat fisik dan kimia produk yang dikemas.","Sebagai wadah/pembungkus untuk mencegah kerusakan produk, melindungi dari pencemaran/gangguan fisik, serta memudahkan penyimpanan, pengangkutan, dan distribusi.",5,Sangat relevan dan menjawab fungsi pengemasan dengan tepat.
+10,Apa yang dimaksud dengan pengkelasan kelas super pada produk sayuran?,"Berdasarkan dokumen panduan yang tersedia, pengkelasan Kelas Super pada produk sayuran adalah salah satu dari tiga klasifikasi mutu umum yang digunakan berdasarkan kesepakatan antara penjual dan pembeli.
+Berikut adalah kriteria yang menentukan suatu produk sayuran masuk ke dalam Kelas Super:
+Kualitas Utama: Memiliki mutu yang sangat baik.
+Karakteristik Fisik: Memiliki bentuk, warna, dan aroma yang khas sesuai dengan jenis sayurannya.
+Kondisi Fisik: Tidak memiliki cacat sedikit pun yang dapat memengaruhi tekstur, rasa, maupun aroma produk tersebut.
+Toleransi Penyimpangan: Masih diizinkan adanya sedikit penyimpangan atau toleransi dari standar yang ditetapkan, namun maksimal hanya sebesar 5%
+","Kelas super memiliki mutu sangat baik, bentuk/warna/aroma khas, tanpa cacat yang mempengaruhi tekstur/rasa/aroma, dengan toleransi penyimpangan maksimal 5%.",5,Jawaban akurat dan sesuai dengan definisi kelas super di referensi.
+,,,,Rata-rata:,4.2
 ,,,,,
 PANDUAN PENILAIAN SKOR:,,,,,
 Skor 5,"Jawaban sangat relevan, akurat, dan lengkap",,,,
-Skor 4,Jawaban relevan dan sebagian besar akurat,,,,
-Skor 3,Jawaban cukup relevan tapi ada bagian yang kurang atau tidak akurat,,,,
-Skor 2,"Jawaban kurang relevan, banyak informasi yang salah",,,,
-Skor 1,Jawaban tidak relevan atau sistem tidak bisa menjawab sama sekali,,,,
+Skor 4,Jawaban relevan namun ada sebagian kecil informasi yang kurang akurat/lengkap,,,,
+Skor 3,Jawaban cukup relevan namun banyak informasi yang kurang tepat,,,,
+Skor 2,Jawaban kurang relevan dan lebih banyak informasi yang salah,,,,
+Skor 1,Jawaban sama sekali tidak relevan dengan referensi,,,,
