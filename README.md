@@ -20,26 +20,29 @@
 ## 🗂️ Struktur Proyek
 
 ```
-rag-uts-[nama-kelompok]/
-├── data/                    # Dokumen sumber Anda (PDF, TXT, dll.)
-│   └── sample.txt           # Contoh dokumen (ganti dengan dokumen Anda)
-├── src/
-│   ├── indexing.py          # 🔧 WAJIB DIISI: Pipeline indexing
-│   ├── query.py             # 🔧 WAJIB DIISI: Pipeline query & retrieval
-│   ├── embeddings.py        # 🔧 WAJIB DIISI: Konfigurasi embedding
-│   └── utils.py             # Helper functions
-├── ui/
-│   └── app.py               # 🔧 WAJIB DIISI: Antarmuka Streamlit
-├── docs/
-│   └── arsitektur.png       # 📌 Diagram arsitektur (buat sendiri)
-├── evaluation/
-│   └── hasil_evaluasi.xlsx  # 📌 Tabel evaluasi 10 pertanyaan
-├── notebooks/
-│   └── 01_demo_rag.ipynb    # Notebook demo dari hands-on session
+cultivaguide/
+├── .devcontainer/           # Konfigurasi development container
+├── data/                    # Dokumen sumber pertanian (PDF, TXT)
+│   ├── BUDIDAYA TANAMAN PADI.pdf
+│   ├── Budidaya-cabe-di-perkotaan_watermark.pdf
+│   └── Pedoman_Penanganan_Pascapanen_Sayuran.txt
+├── data-backup/             # Backup dokumen sumber
+├── evaluation/              # File evaluasi hasil pengujian
+│   └── evaluasi.csv         # Tabel evaluasi pengujian pertanyaan
+├── src/                     # Direktori source code utama
+│   ├── config.py            # Konfigurasi aplikasi & LLM
+│   ├── indexing.py          # Pipeline indexing dan chunking
+│   └── query.py             # Pipeline query dan retrieval RAG
+├── ui/                      # Direktori antarmuka pengguna
+│   ├── app.py               # Antarmuka web menggunakan Streamlit
+│   └── cli.py               # Antarmuka baris perintah (CLI)
+├── vector_db/               # Penyimpanan database vektor FAISS lokal
+├── venv/                    # Virtual environment Python
+├── .env                     # Environment variables (tersimpan lokal)
 ├── .env.example             # Template environment variables
-├── .gitignore
-├── requirements.txt
-└── README.md
+├── .gitignore               # Konfigurasi file yang diabaikan git
+├── requirements.txt         # Daftar dependency package Python
+└── README.md                # File dokumentasi utama proyek ini
 ```
 
 ---
@@ -94,7 +97,7 @@ python src/indexing.py
 streamlit run ui/app.py
 
 # Atau via CLI
-python src/query.py
+python ui/cli.py
 ```
 
 ---
@@ -105,9 +108,9 @@ Semua konfigurasi utama ada di `src/config.py` (atau langsung di setiap file):
 
 | Parameter | Default | Keterangan |
 |-----------|---------|------------|
-| `CHUNK_SIZE` | 500 | Ukuran setiap chunk teks (karakter) |
-| `CHUNK_OVERLAP` | 50 | Overlap antar chunk |
-| `TOP_K` | 3 | Jumlah dokumen relevan yang diambil |
+| `CHUNK_SIZE` | 1500 | Ukuran setiap chunk teks (karakter) |
+| `CHUNK_OVERLAP` | 400 | Overlap antar chunk |
+| `TOP_K` | 10 | Jumlah dokumen relevan yang diambil |
 | `MODEL_NAME` | `gemini-3-flash-preview` | Nama model LLM yang digunakan |
 
 ---
