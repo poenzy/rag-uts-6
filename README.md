@@ -37,7 +37,7 @@ cultivaguide/
 │   ├── app.py               # Antarmuka web menggunakan Streamlit
 │   └── cli.py               # Antarmuka baris perintah (CLI)
 ├── docs/                    # Diagram Arsitektur
-│   └── cli.py               # Diagram Arsitektur
+│   └── arsitektur.png       # Diagram Arsitektur
 ├── vector_db/               # Penyimpanan database vektor FAISS lokal
 ├── venv/                    # Virtual environment Python
 ├── .env                     # Environment variables (tersimpan lokal)
